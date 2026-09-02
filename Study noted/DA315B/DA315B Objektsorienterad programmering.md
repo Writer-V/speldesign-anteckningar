@@ -2,7 +2,7 @@
 Programmering, men via spel.
 
 # 6 st spel
-* [[Hangman in console]] 
+* [[Hangman in console]] #Period1-class 
 * [[Space invaders]] - 3 hp
 * [[Zelda]]
 * [[Pacman]]
