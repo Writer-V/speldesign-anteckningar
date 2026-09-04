@@ -17,13 +17,15 @@ Raquel used to work on affective games. Physiological signals as controllers.
  * Persuall Readings Engagement 0.5 credit
   *  https://app.perusall.com/join/ROBINSON-PF7NH
   * Complete `intro to Perusall`. Comment 1 thing you agree with and 1 you don't. Motivations for both.
-  * Write 1 + comment 1 for each workshop.
+   * [[Elements and Structure of Games]]
+  * Write 1 + comment 1 for each workshop
  * Read
   * [Game Design Snacks!](obsidian://open?vault=Study%20noted&file=DA301A%2FGame%20Design%20Snacks.pdf)
   * Defining Game Mechanics
   * [A formal Approach to Game Design and Game Research](obsidian://open?vault=Study%20noted&file=DA301A%2FMDA.pdf)
 * Part 2: Workshops:
  * 0.5 credit / workshop
+  * [[Game Design Workshop 1]]: Learn the rules of the available games on Canvas.
 * Part 3: [[Game prototype]], week 39-44
  * Oral exam; playing the prototype
  * Reflections report. Academic quality - including reference list. 1 credit

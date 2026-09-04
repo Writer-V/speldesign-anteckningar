@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "faa98a8c9f2e3572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acae218dfa69b914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DA301A/Elements and Structure of Games.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Elements and Structure of Games"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DA301A/DA301A Game Design.md",
+                "file": "DA301A/Elements and Structure of Games.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -125,7 +155,7 @@
       {
         "id": "ee496f9709a545b3",
         "type": "tabs",
-        "dimension": 53.036437246963565,
+        "dimension": 53.03643724696357,
         "children": [
           {
             "id": "74691b48d2c805b6",
@@ -167,7 +197,7 @@
       {
         "id": "8ff57a7885b1f26e",
         "type": "tabs",
-        "dimension": 46.963562753036435,
+        "dimension": 46.96356275303643,
         "children": [
           {
             "id": "d68db1bc0e0896ba",
@@ -235,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DA301A/DA301A Game Design.md",
+                "file": "DA301A/Elements and Structure of Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -262,8 +292,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9ecb4153ea3fa60b",
+  "active": "acae218dfa69b914",
   "lastOpenFiles": [
+    "DA301A/Game Design Snacks.pdf",
+    "DA301A/DA301A Game Design.md",
+    "DA301A/Elements and Structure of Games.md",
+    "Game Design Workshop 1.md",
     "DA301A/ultimatemicro-rpgbook/toc.ncx",
     "DA301A/ultimatemicro-rpgbook/e9781507212875/styles/SS_signup.css",
     "DA301A/ultimatemicro-rpgbook/e9781507212875/styles/SS_recommendpage.css",
@@ -283,12 +317,8 @@
     "DA301A/ultimatemicro-rpgbook/e9781507212875/xhtml/title.xhtml",
     "DA301A/ultimatemicro-rpgbook/e9781507212875/xhtml/nav.xhtml",
     "DA301A/ultimatemicro-rpgbook/e9781507212875/xhtml/intro.xhtml",
-    "DA301A/ultimatemicro-rpgbook/e9781507212875/xhtml/fm01.xhtml",
-    "DA301A/ultimatemicro-rpgbook/e9781507212875/xhtml/cover.xhtml",
-    "DA301A/DA301A Game Design.md",
     "DA315B/Space invaders.md",
     "DA315B/DA315B Objektsorienterad programmering.md",
-    "Untitled.md",
     "DA315B/Hangman in console.md",
     "DA315B/Period 1 goals.md",
     "2026-08-31.md"

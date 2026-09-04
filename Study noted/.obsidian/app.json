@@ -1,5 +1,7 @@
 {
   "strictLineBreaks": true,
   "showLineNumber": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
