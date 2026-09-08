@@ -16,5 +16,3 @@ Raquel isn't a fan of how prescriptive #Game-Design-Workshop and #Rules-of-Play 
 Salen & Zimmerman: *A game is a system in hich players engage in artificial conflict, that results in a quantifiable outcome.*
 
 Every single part of that can, and probably should, be questioned. Basically: it's a game if people engage in it as a game.
-
- 
