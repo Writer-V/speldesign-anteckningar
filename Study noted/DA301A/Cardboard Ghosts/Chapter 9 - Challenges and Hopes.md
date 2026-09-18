@@ -1,0 +1,179 @@
+---
+book: Cardboard Ghosts
+author: Amabel Holland
+chapter: 9
+doi: 10.1201/9781003500834-9
+tags:
+  - book/cardboard-ghosts
+---
+# Chapter 9: Challenges and Hopes
+
+*From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-9](https://doi.org/10.1201/9781003500834-9). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
+
+[[Chapter 8 - This Guilty Land|← Chapter 8]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]]
+
+## Useful Doubts
+
+In the preceding chapters, in the natural course of discussing techniques and approaches to modeling, we mentioned some challenges inherent to each, as well as challenges to the use of games to model real-world systems.
+
+These considerations are both ethical and practical. A game designer working in this space has to sidestep, overcome, and think carefully about a number of pitfalls which do not confront a designer who is more concerned with adding a new twist to roundels or deckbuilding than with what real-world things those mechanisms can express, explore, and embody.
+
+A first-time designer once asked me how to do it. She was aware of these pitfalls, aware there were pitfalls she wasn’t even aware of yet, and she felt a little overwhelmed by it. She wasn’t confident in her ability to navigate them.
+
+I told her this was a good sign. Confidence is often a trap, leaving you blinkered and bubbled. Doubt, on the other hand, is useful. Doubts cause you to question your assumptions, perspective, and approach. You ask yourself why you’re doing this game – what do you have to say about it, and how are you going to say it? Whose story are you telling, and whose are you glossing over? Is this story yours to tell in the first place? Is it possible your message might be misinterpreted? How do you protect against that?
+
+Every time I approach a new project of this type, I am absolutely riddled with these doubts. This comes quite naturally to me. I spent a lifetime second-guessing literally everything I did and thought and felt, crippled by anxiety and the sense at any moment everyone would realize it. So I guess my advice if you find yourself burdened with troublesome confidence is to have been born a dysphoric trans woman; it works wonders. ^p95
+
+Simply having doubts won’t ensure you find the right answers to these questions. But it will ensure you ask them, and that once you arrive at an answer, you’ll question it, too. This process of continuous inquiry is exhausting but necessary, a vital tool for any artist, regardless of medium.
+
+## Ethical Challenges
+
+When discussing present and historical systems of oppression, there exists a fundamental responsibility to do so thoughtfully. These systems have been sources of real and sometimes unfathomable suffering, and that harm can ripple out for generations, with the effects still felt today. It is ghoulish to discuss these things cavalierly or flippantly, especially if they haven’t touched you personally. I don’t think I need to spend a lot of time explaining this; it should fall under basic human decency. There are additional challenges, however, unique to making a game about these serious and difficult topics.
+
+First, there is a perception among the general public that games themselves are inherently frivolous and diverting baubles. For many, the very idea of doing a game about real-life tragedies is trivializing. This is a perception which is changing. Many people now acknowledge video games as capable of serious art about serious subjects, and this is also true to a degree of tabletop role-playing games.
+
+But board games still carry this stigma, because board games are first regarded as products – as toys – rather than as an art form. I think this cultural perception persists because of some innate features of board games. Their existence as a sort of mathematically-built machine is more readily apparent: people seldom regard systems as art. The narrower range of emotions explored by many games, a narrowness created by their emphasis on the pursuit of victory, is more in line with our expectations for a toy or puzzle-book. This perception means there is a sense that taking real events and “making a game of it” is inappropriate.
+
+Previously, we discussed some of the public outcry about the announced-then-cancelled *Scramble for Africa*. As many people as there were who were upset by its perceived thoughtlessness, and its unexamined euro-centric alignment of sympathies with the perpetrators, there were just as many who felt it would be inappropriate for anyone to make a game on that subject, because games must be fun and this topic should never be.[^1] ^p96
+
+This makes *tone* tremendously important. I have at the time of this writing designed over eighty published games, and in many of them, I make use of an impish sense of humor and very casual, conversational rules-writing style. I am a sucker for puns and dumb jokes.
+
+That’s fine for some games. For example, when I did my game on the evolution of the Roman manipular legion, *The Grass Crown*, I said the denizens of Transalpine Gaul all wore programmer socks and cat ears, and made a raunchy joke, with a punchline in Latin, at the expense of Julius Caesar. But this would be grossly inappropriate for a game with more serious intent and which engages with ongoing sources of suffering. There are no jokes in *This Guilty Land*.
+
+There were jokes, however, in *Nicaea*, my game about the Catholic Church and its first ecumenical council. Partially, this was because the game concerned the church primarily as a nascent oppressive structure whose harms were yet to be committed. The game was about the man-made natural of doctrinal decisions, arrived at in order to secure and protect political and temporal power, and not the many terrible things the church did with that power in the nearly two thousand years since.
+
+And partially, I was able to fill my religion game with middle school jokes about castration and oral sex because I was someone who, in childhood, was deeply damaged by the church, and because I belong to one of the many groups of people whose well-being the Catholic Church openly works against. It’s well within the prerogative of the marginalized to use humor in making art about their pain and oppression.
+
+This tool is not as readily available, and in many cases might even be completely inappropriate, for people who are not as directly affected. Even as *This Guilty Land* is not about the lived experience of slavery, but rather the systemic deadlock and poisonous civility culture which allowed it to persist, I was very aware of, and sensitive to, the painfulness of the underlying subject matter, and so I was very careful to maintain a sober, serious tone.
+
+That also applied to interviews and other press materials surrounding *This Guilty Land*. Being cognizant of the public perception of games as toys, I had a responsibility to communicate to the public what the game was and what it was not, both within the game itself, and leading up to its release.
+
+It’s not that I felt the game couldn’t “speak for itself”, but rather, it might not get the chance to. People would see “someone made a *game* about slavery” and, having nothing more to go on, would be rightfully upset. They would not engage with it at all. This had in fact happened upon the initial release of the cooperative game *Freedom: The Underground Railroad*. I spoke with its publisher, Uwe Ekert, at a convention in 2018, a few months before the release of *This Guilty Land*, and he described the controversy to me. It died down after a couple of weeks, and once the game was released in stores, reviewed by critics, and recommended to educators, people had a much clearer idea of what the game was. ^p97
+
+But this sort of turnaround wasn’t something which was likely to happen with a small press game like mine, released via direct sales without any wider distribution. If I let someone else make unchallenged assumptions about the game, that would be the game’s story. That wouldn’t be great for the game’s commercial or artistic prospects, of course, but it would also make the game’s very existence a source of frustration and pain. I had a responsibility, then, to market and discuss the game appropriately, sensitively, and thoughtfully.
+
+One concern which was brought up in the lead-up to the game’s release also highlights another ethical consideration of serious games: identification. *This Guilty Land* has one player working against slavery, and the other for it, and a number of people expressed discomfort playing Oppression. This is another reason why I was careful to alienate both players from their roles, and to restrict the game’s arena to the world of political debate. I did not want to force a player to re-enact the direct harms of slavery or to identify with a slave-owner’s odious worldview. The identification effect can be quite powerful and therefore quite dangerous. Designers need to be aware how their games create sympathy, and for whom.
+
+I also wanted to avoid the possibility of someone being pressured to play this role by a friend or partner looking for an opponent. One benefit of the game’s open information card display and general lack of hidden information is it allows one person to play both roles themselves. This kind of solitaire play is very common in wargames; according to Dunnigan’s surveys, “more than 50 percent of [wargames] played are played solitaire”[^2], and anecdotal evidence suggests this holds true today.
+
+This tendency has led to the development of solitaire “bots”, giving players procedural opponents whose actions are dictated by flowcharts or a deck of cards. This in turn has led to an expectation of solitaire modes of play, and it has become more common to include them, especially in games with more serious subjects. Tory Brown’s *Votes for Women* is not only a competitive two-player game pitting the Suffragist player against their reactionary Opposition, but has a solitaire mode and a co-operative mode. In both of these, no human plays the Opposition. That’s handled by the “Oppobot”, allowing players to inhabit the less discomforting roles. ^p98
+
+I’ve been asked more than once why I haven’t included such a bot in my games. This came up again recently with the 2023 release of my game *Doubt Is Our Product*, in which one player controls the fortunes of American tobacco companies, and the other anti-smoking activists. The game concerns the use of deliberate disinformation by the tobacco industry to lie about the deadly effects of their products, and in so doing, evaded responsibility for a hundred million cancer deaths.
+
+I have yet to meet a single person who hasn’t lost someone – a friend, a family member, a lover – to smoking-related cancers. It’s a very immediate pain, and one I share, having lost my own father when he was thirty-eight years old. I of course don’t want players to identify with the industry or its aims. The game is constructed to distance the company player from their role – unlike the anti-smoking movement, their components are drained of color, depicted in stark inhuman icons, and given very generic names (for example, calling a card “Mascots” instead of referring specifically to the Marlboro Man or Joe Camel). The company’s hand of cards is hidden from the other player, but due to the specific asymmetric nature of the game, which only sees the two sides directly interact at a few key points, it would not be difficult to play both sides yourself if you were unable to find a comfortable opponent.
+
+What I didn’t do, however, is include a solitaire bot. Those points of interaction between the two players are a core source of meaning for the game. Like *This Guilty Land*, its model is built on observing two forces in opposition, and that observation would be dulled if one of those sides was acting semi-randomly, or according to a flowchart.
+
+More broadly, I maintain it is impossible to model and critique a systemic structure without allowing players to pull the levers and see how, exactly, it works or fails to do so. Now, this uncomfortable complicity is not required if the goal is merely to create sympathy for the victims of a system, or to depict or encourage opposition to it, which are worthy goals in and of themselves.
+
+But in order to create games with the purpose of *understanding* and thinking about systems in a systemic way, the complicity of at least one player role within that system is necessary. And this is at the very least an ethical concern, if not an intractable problem with games which model real world systems. ^p99
+
+Like most ethical considerations in art and human expression, this is not a thing which can be completely solved. There are no rules which will ensure the “correct” result. It’s a thing to be grappled with, and this grappling should inform the decisions the designer makes to mitigate harm, and to ask themselves if the harm which remains, even if unintentional, is justified by the end result.
+
+## Practical Challenges
+
+The very thing which makes board games a useful tool for understanding systems paradoxically limits their ability to do so. Because you need to learn a game before you can begin to manipulate it, you are given the opportunity to understand the game as an entire system; because you need to do this, board games are not as popular or as approachable as video games, film, or truly mass media art forms.
+
+Even when we model something as simply as possible, this learning process – so vital to the board game art – poses a kind of barrier. Serious games tackling difficult topics, interested in modeling real-world systems to the degree that they can be comprehended and critiqued, are going to be more complicated. There is an irreducible complexity to these subjects.
+
+If I was somehow to publish *This Guilty Land* as a free game, or sell it as a loss, and if further there were a greater number of people willing to engage with the game and its argument, it remains a complex, simulationist game. Each card has multiple, slightly-different usages, which have slightly different restrictions and yield slightly different benefits.
+
+The Public Opinion cards, for example, have a Political Will cost ranging from one to four. On initially playing the card from the display, you may flip a number of Compromise markers equal to its cost, spread across map Regions equal to your org capacity. For each Region, your opponent may flip a Public Opinion card in their Reserve to React, reducing the number of flips, and will earn Political Will equal to the number of Regions in which markers were actually flipped. Thematically, this kind of broad, national-level messaging can persuade some folks to get off the fence. If unchecked, it can galvanize your opposition – the more widespread your efforts, the more Political Will they earn. ^p100
+
+You may then take the card into your Reserve, and from there, you can flip it, expending the same amount of PW, to take a different Public Opinion action. Instead of flipping Compromise markers of your color, it swaps opposing Compromise markers for your flavor of Compromise. Instead of multiple map Regions, this is limited to only one. Instead of swapping markers equal to the card’s cost, you swap markers equal to the *number* of face-up (unused) Public Opinion cards in your Reserve. Your opponent may flip a card to oppose this, and always earns two Political Will when you perform this action. It’s a more focused, local effort, one for which you will already need some broad national mentioning (represented by needing a larger number of Public Opinion cards in Reserve to pull it off).
+
+The interplay between these three uses of the Public Opinion cards – radicalizing those who are sympathetic, persuading those who *can* change their mind to do so, and the public debate slap-fight – and the way in which this “play from Reserve use” only becomes more effective once you have laid some broader groundwork represents, on a metaphorical level, the gradual shifting of the Overton Window in American political discourse.
+
+But I have certainly seen people get mixed-up on some of these particulars, trying to use the Reserve action to influence multiple Regions, and “how much PW does my opponent get again?” To put it uncharitably, the rules I came up with are a little fiddly. They feel like exceptions.
+
+This highlights another practical concern of board game design. The entire reason why a player needs to understand the entire system before playing a board game is because they are the ones who enforce its rules. Which means of course the game is subject to being run incorrectly. Some rules errors have only tiny effects on the gameplay. Others dramatically warp the game’s decision space, play balance, and systemic messaging.
+
+I once had the extreme displeasure of watching a livestream of *This Guilty Land* where the two players were not at all sure of the rules, making serious errors throughout. I was in the chat trying to offer corrections, but there was some delay between actions taking place and those same turns showing up on the video. In effect, they did not really play my game at all, and had a very frustrating experience – a very different kind of frustration than was intended! The more complex a model is, the more prone it is to this kind of human error. When this happens to a game with a serious message on a difficult, sensitive topic, this runs the risk of distorting that message, or even presenting its opposite. ^p101
+
+When I did *The Vote: Suffrage and Suppression in America*, using much of these same mechanisms, I simplified the PW gains specifically – it’s just two across the board, regardless if the card is played from the display or your Reserve, regardless of how many markers are flipped or if your opponent flips a card to React – but in doing so I compromised some of the nuance and fidelity, collapsing the shades of meaning of the original mechanical metaphor, and reducing the complexity of the player decision space. And I was very aware I was making this trade-off in search of a wider audience, in the hopes my general message about intersectionality would reach a wider number of people.
+
+I’m not sure I succeeded. It sold about as many copies in its first year as *This Guilty Land* did, but hasn’t really kept pace since then, especially after the release of Tory Brown’s *Votes For Women*, which as a very immersive game has a much broader appeal. Both my game and Brown’s take time to both celebrate the accomplishments of the suffragists while being critical of their failings, particularly with regards to race and class, but Brown’s game is concerned with telling a story, educating about history, and encouraging participation in the political process, rather than being principally concerned with making a systemic critique or arguing that political process is fundamentally designed to reify and legitimize oppressive structures.
+
+I’d argue neither aim is better or worse than the other. As much as the anarchist in me wants to tear down the whole rotten thing, dismantling the apparatus of capitalism, patriarchy, etc., I recognize until that happens – if it ever does – we need to live in the world we have, and incremental progress won within this broken system is still *some* kind of progress. As humans, we have a duty to try and take care of each other, and so alongside radical screeds like mine about how the system doesn’t work and is fundamentally unjust, we also need more palatable messaging encouraging us to do what we can within it.
+
+This does mean, on a cultural level, board games *about* systems have a less receptive audience, no matter how much you simplify your model. This is doubly true for board games whose mechanical and emotional resonances run counter to the narrow range deemed commercially acceptable.
+
+I have certainly experienced despair about the utility of my own work. *What am I doing? What’s the point?* I make frustrating games most people don’t want to play, because those frustrating mechanisms seem to me the best way to communicate a message I think is urgently important. The inability to see systems prevents us from dismantling them. I model these systems as simply as I can while acknowledging they inherently have an irreducible complexity. My audience, then, is limited to people with a taste for complex board games – people who are well-versed in the language of board games. People who for the most part *already* think systemically, and are therefore likely to already perceive systems of oppression. Am I just preaching to the choir? ^p102
+
+Other days, I’m more sanguine. I’ve heard from people for whom my games were effective or radicalizing. I’ve overhead other designers talk about my work as pushing against the barriers of the form. That’s not only gratifying to hear, but sometimes I feel quite comfortable in this role. The games I make demonstrate it is possible to use board games to make systemic critiques, and that they can explore a wider range of emotions. And maybe someone smarter and more talented than I will build on this in a way which reaches a broader audience and has a greater impact.
+
+I hope so. For board games to actually work as a tool for thinking about and critiquing oppressive systems, they must be more accessible and approachable. The models must be simpler, the learning process more streamlined, and the games must work within a palatable emotional range. And I don’t know how to do any of that. I don’t know for sure that it *can* be done.
+
+It’s not only a question of making a simple model of something complex – all models are simplifications – but a simple model which allows you to understand a thing’s complexities. It’s not a question of making a game easier to learn, but of foreground the learning process because it is, to some degree, where the systemic understanding is born. It’s not a question of working within the traditional design space of victory-focused competitive balance, and the emotions it fosters, but finding a way to make deliberate and necessary subversions acceptable within this framework. These contradictions feel irresolvable. An impossible magic trick. Like I said, I have no idea how to pull it off.
+
+But maybe you do.
+
+## Political Art is a Custard Pie
+
+Working on games about political and social systems is exhausting. It’s exhausting because you’re spending your time – in my case, professional, but for others, for whom design is a sideline or hobby, their free time – mired in seemingly intractable problems, in the immense, wholly unnecessary suffering they cause, and in the stubborn, often malicious refusal of those who benefit from these structures to let go of them. ^p103
+
+Each of my games about systems takes about eighteen months of my life, and during those eighteen months, I fall into a deep and angry depression. Each game like this takes something from me. I’m happier once I’m on the other side of it, but I feel smaller than I was going in. Every time I make one of these games, I tell myself it’s going to be the last one, because I don’t know how many more of them I have in me.
+
+And of course there’s always this disquieting voice asking if it’s worth it. Sometimes this is the same doubts I always grapple with, about the ability of my games to reach an audience and actually make an impact. Sometimes it’s about the weird hostility many board game hobbyists have toward the form itself. People who only want to see them as mathematical efficiency puzzles, who deny they’re capable of being anything else, and dismiss any attempts to do or be otherwise.
+
+I was fortunate enough in late 2023 to receive some mainstream press coverage, and on the whole, folks were happy for me and supportive. But when I wanted to look for it, it wasn’t hard to find people painting a picture of me as some kind of huckster performance artist, in love with the smell of my own farts, whose games were not designed to be played by human beings, just shoveling broken untested games into the world and handwaving it away as experimental art, and aren’t I so clever and daring?, and don’t I think I’m so important?
+
+It was a bizarre thing to read. I’m a deeply insecure woman, and the person they describe has something approaching self-esteem and confidence. And I know each of these serious games has been an agony. Because they run counter to established norms, those decisions get worried over more, and the games are more thoroughly tested. But their perception is not really about me; it’s about the idea of board games running counter to established norms in the first place. People want innovations but those innovations need to fit within a narrow framework.
+
+It is a little like if every film needed to be a popcorn blockbuster. And there, I suppose, board games are not so alone, after all. In 2022, the British Film Institute’s Sight and Sound poll of critics and directors named *Jeanne Dielmann, 23 quai du Commerce, 1080 Bruxelles* as the greatest film of all time. This 1975 film by director Chantal Ackerman runs over two hundred minutes and is characterized by long static takes of a woman going through the mundane tasks of her day. It is, by my estimation, probably the closest any film has come to embodying Tarkovsky’s pronouncement that cinema is sculpting in time. This poll result spawned think pieces and complaints about how “out of touch” these critics and directors were with the general public, how this choice bordered on parody, and why couldn’t they choose a film “normal” people had actually seen? ^p104
+
+This framing assumes popularity and commercial success as the only measures of artistic value. This capitalist valuation of art is present in all accessible art forms. The dismissal of non-standardized works, or even whole forms – such as opera or ballet, which are not able to be mass-produced and exploited like film, television, books, and games – as snooty, elitest things is an inherently pro-capitalist message. Political art is marginalized unless it, too, can be exploited, reduced to t-shirts and co-opted into consumer choices. Everything is a product first, and art second, if it is allowed to be art at all.
+
+In 2003, despairing at the American war in Iraq, the novelist Kurt Vonnegut remembered Vietnam. Asked if satire – if art – can actually change things, he said:
+
+> History is happening to us now. George Bush has hydrogen bombs if he needs them. It really matters who’s around and who’s holding attention. I don’t think television will let anybody [except Bush] hold attention… During the Vietnam War, which lasted longer than any war we’ve ever been in – and which we lost – every respectable artist in this country was against the war. It was like a laser beam. We were all aimed in the same direction. The power of this weapon turns out to be that of a custard pie dropped from a stepladder six feet high.[^3]
+
+This quote is often trotted out without any mention of its context or of television, simply stating that political art is only highfalutin posturing that accomplishes nothing. What Vonnegut is actually talking about is a systemic barrier to effective political art in an age of mass media. Television is, first and foremost, an anti-subversive technology, creating and supporting orthodox cultural messaging. By removing this element from the quote, instead of being about the difficulties of protest and activism in the modern cultural environment, it’s been transformed into “political art doesn’t *work*, and you’re a fool if you think it does.” The critique is now another brick in the system’s defensive works, encouraging apathy rather than resistance. ^p105
+
+As Vonnegut says elsewhere in the interview, “We have no idea what technology has done to us.” Peter Watkins expresses similar sentiments in his writings about the Monoform: “Generally, we can only speculate on the long term psychological and environmental effects of the sustained use of the Monoform”.[^4] When interviewed about his films, Watkins’s critiques of the Monoform and mass audio-visual media were often edited out. Perhaps it was to save time, perhaps it was malicious: within the Monoform, is there really a difference?
+
+Systems do not permit critique unless it can be coopted or made to look ridiculous. Anti-intellectualism and hostility to non-standard art are small cogs in a complicated machine which exists to prevent us from recognizing, understanding, and ultimately dismantling these systems. If I have another of these games in me, it will probably take this as its subject: the system that protects systems, that hides them, that persuades us they don’t exist or if they do, there’s nothing we can do about it anyway. The system which lies to us and fills us with despair; the system which tells us not to worry about it and why don’t you buy something to make yourself feel better; the system which shapes the way we think and how we think about it, shapes even our sense of what it is to be human, of what it is to be happy.
+
+## The Future
+
+These challenges are not trivial, the chances of success are unlikely, and the rewards when you do pull it off are dubious. Above all, it’s quite lonely doing these sorts of games. You know in your heart games can be more than puzzly dopamine but it seems like you’re the only one who can see it. It’s like there’s a poison in your brain. You’re not alone, of course. But there are fewer of you than you’d like, and when you’re awake with your doubts at two in the morning, you *feel* like you’re the only one. It’s miserable.
+
+I don’t think this will always be the case. Despite the hostility or apathy of the broader market, there is a growing appetite for unusual, difficult, persnickety board games. For games which take chances, mechanically or thematically. For games which try to express something – be it human, personal, or political. For games which immerse us in uncomfortable positions, for games which alienate us from the experience for a purpose, for games which do both. For games which give us space to think about the world we live in and how it might be changed.
+
+And as more people make these sorts of games, coming at it from different angles and different backgrounds, that appetite will grow. The more accustomed we grow to a thing, the more we come to like it, the better able we are to appreciate it and engage with it. ^p106
+
+For example, the first time I listened to *Love and Affection For Stupid Little Bitches*, the third album by Black Dresses, I found it really unpleasant. It was one of my first encounters with noise pop. The first track’s discordance and harsh screaming made it difficult to listen to, and the mentions of rotting flesh, dissection, and blood made me really squeamish. I was thankful this song, “Static”, was followed by “Hertz” and “Bloom”, which leaned more heavily on the “pop” side of the noise pop equation. They were more immediately palatable but still relied on unsettling discordances and harsh vocalizations, as well as anguished lyrical content expressed at once earnestly but at an ironic distance. I’m not sure I’ve encountered a better expression of the way love interacts with depression and depersonalization than “Dead girls try each other’s eyes and pretend for a while that we’re still alive.”[^5] As time went on and I listened to more noise pop, I was better able to engage with and enjoy the raw, violent qualities of “Static”, and to appreciate the non-standard elements of the other tracks. This is how we each develop our own personal tastes and aesthetic sensibilities.
+
+But it’s also how, on a systemic level, popular tastes and aesthetic sensibilities are developed and shaped. The hobby board game market in America is itself a good example of this. When euro games were first brought over here in the nineties and aughties, it was very much a niche thing. You arrive at a family event with a satchel full of designer board games and they groan and roll their eyes and ask why they can’t play a “normal” board game instead. That’s less the case now, as modern games have become more numerous, more popular, and more accepted. And, over time, serious, unusual, and political games can likewise become more numerous, more popular, and more accepted.
+
+I don’t know when that’s going to be, or if it will be in my lifetime. I don’t know what the future holds for board games as a serious art form. I only know there is so much potential – potential which has remained mostly untapped across the form’s four thousand years of existence. And that’s as exciting for me as it is disheartening.
+
+The same could be said of the world we live in. A world still ruled by cruel, invisible systems – by thousands of years of cultural assumptions and oppression – but a world populated by passionate, creative human beings, desperately trying to take care of each other. ^p107
+
+The future holds terror and promise in equal measure.
+
+## Bibliography
+
+- Ackerman, Chantal (1975). *Jeanne Dielmann, 23 quai du Commerce, 1080 Bruxelles* (film). Paradise Films.
+- Black Dresses (2019). *Love and Affection For Stupid Little Bitches* (album). Blacksquares.
+- Brown, Tory (2023). *Votes for Women* (board game). Fort Circle Games.
+- Dunnigan, James (1980). *The Complete Wargames Handbook: How To Play, Design, and Find Them*. 1992 edition. William Morrow and Company.
+- Holland, Amabel (2018). *This Guilty Land* (board game). Hollandspiele.
+- Holland, Amabel (2020). *The Vote: Suffrage and Suppression in America* (board game). Hollandspiele.
+- Holland, Amabel (2021a). *The Grass Crown* (board game). Hollandspiele.
+- Holland, Amabel (2021b). *Nicaea* (board game). Hollandspiele.
+- Holland, Amabel (2023). *Doubt Is Our Product* (board game). Hollandspiele.
+- Mayer, Brian (2013). *Freedom: The Underground Railroad* (board game). Academy Games.
+- Vonnegut, Kurt (2003). *Interview by David Hoppe. “Vonnegut at 80”*. 1 January. nuvo.net
+- Watkins, Peter (2018). “Dark Side of the Moon.” pwatkins.msni.net
+
+
+[^1]: In my own work, I’ve never really concerned myself with whether or not a game is “fun”, an admission which will not surprise folks who dislike my games.
+
+[^2]: James Dunnigan, *The Complete Wargames Handbook: How to Play, Design, and Find Them*, pg. 216. William Morrow and Company, 1980.
+
+[^3]: Kurt Vonnegut, interviewed by David Hoppe, “Vonnegut at 80”, 1 January 2003, nuvo.net.
+
+[^4]: Peter Watkins, “Dark Side of the Moon.” [pwatkins.msni.net](http://pwatkins.msni.net).
+
+[^5]: Black Dresses, “Bloom”, *Love and Affection for Stupid Little Bitches*. Blacksquares.

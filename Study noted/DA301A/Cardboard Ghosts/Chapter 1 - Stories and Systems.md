@@ -1,0 +1,76 @@
+---
+book: Cardboard Ghosts
+author: Amabel Holland
+chapter: 1
+doi: 10.1201/9781003500834-1
+tags:
+  - book/cardboard-ghosts
+---
+# Chapter 1: Stories and Systems
+
+*From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-1](https://doi.org/10.1201/9781003500834-1). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
+
+[[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 2 - Mechanical Metaphors|Chapter 2 →]]
+
+Years ago, I read something that changed how I thought about games. In a roundabout way, it changed my life.
+
+I would love to share it with you, but it’s gone. It was a post on a trashy trans Tumblr blog,[^1] and it was scrubbed away in late 2018 along with all the other joyously unclean things in an attempt to make the site more palatable to investors, advertisers, and credit card processors. Maybe the most important thing I have ever read, a real *On First Looking Into Chapman’s Homer* sort of thing, and it’s gone forever because a cell phone company thought the weird horny website would finally become profitable if it wasn’t weird and horny.[^2]
+
+The post was written by a trans woman who was a board game designer, and it was about how badly games model romance and intimacy. Games are really good at modeling combat, she argued. You can measure someone’s hit points or exhaustion or morale, and you can whittle that down – track someone’s willingness to continue fighting. But when games try to model something as ineffable as attraction or affection, it is rendered as a kind of combat: whittling down the opposing side’s “emotional hit points”, or doing enough tasks (giving gifts, choosing the right dialogue options) to increase their mathematically-measured affinity for you. It’s a clumsy model at best, a clear example of everything looking like a nail when all you have is a hammer. At worst, it plays into the toxic idea of someone being “owed” affection or intimacy because they’ve spent x number of dollars or spent y amount of time with you.
+
+Her conclusion, as I remember it, was that games don’t yet have the tools to model such things, and they might never get them. Because games, and board games especially, reduce everything to something tangible and measurable. Something as slippery as political influence becomes a wooden cube in your color. Happiness is a piece of cardboard scooting up a track. Games are blunt, obvious things, a collection of yes/no binary states and strict rules. A game cannot hold a poem’s shades of meaning, metaphors melting into each other, contradicting, expressing, reaching: it strips all that away, literalizes it, turns it into a single thing that can be counted and held. ^p2
+
+She expressed it as anguish and frustration. I shared in that, and still do. But I also saw a tremendous amount of potential in that process of literalizing. Games are bad at mechanically modeling love, grief, and melancholy because it must give those incorporeal things a physicality. But what if you *wanted* to give something incorporeal a physical form? What if that very act transformed something inscrutable into something comprehensible and observable?
+
+At the time that I read this, I had designed a few dozen published games. Many of them were in the tradition of historical conflict simulations – games that sought to model history and make arguments about it. But until I read that Tumblr post, it hadn’t yet clicked that I could use games to literalize, model, and understand *systems*, particularly political systems and systems of oppression. Like I said, it changed how I thought about games.
+
+I also said it changed my life. In what I could only characterize as a cosmic coincidence, some time later its author, Erin Escobedo, sent me an email. The lady who rewired my brain wanted my company to publish her first board game, *Meltwater: A Game of Tactical Starvation*. Afterwards, we became friends. In this trashy, crabby trans woman I recognized a lot of myself, or, to be more precise, I recognized things I had always *wanted* for myself. Erin didn’t crack my egg,[^3] but when it did crack, she gave me a direction to run toward instead of from.
+
+The story of how my egg cracked isn’t particularly interesting, and I’m not going to share it here. The short version is that I recognized myself in other trans people who shared their experiences, and who gave me the language and concepts I needed to understand myself. That information was not available to me throughout most of my life. If I saw depictions of trans people in media, it wasn’t trans people sharing their own experiences; it was a caricature created by cis people. They were objects of derision, revulsion, or pity. The concept of “gender dysphoria”, key to me recognizing my own pain, wasn’t presented at all, at least not in any way I could recognize or relate to. A narrow version of a trans experience – the person “trapped in the wrong body” who “always knew” since a young age – was presented as the only one. It didn’t fit me and so it never really occurred to me that I might be trans. ^p3
+
+I can rattle off a list of bad depictions, of specific instances of bad information. Likewise, I can tell you about specific instances of queer and trans voices being marginalized or silenced: the important research of the *Institut fur Sexualwissenschaft* burned by Nazis, the banning of queer library books, the censure of trans legislators, and even something as inconsequential as the purging of a blog post that changed the way I think about games. But all those incidents and accidents hide the real scope of the problem.
+
+It didn’t take me forty years to figure myself out because of *Ace Ventura* or *The Crying Game*. It took me forty years because our culture, on a systemic level, is profoundly heteronormative and cisnormative. It assumes all people possess these properties as a default. Our laws, our medicine, our entertainment, and our social norms are all built around this, without bothering to question that premise. They are likewise built around an assumption of able-bodiedness and of whiteness.
+
+These systems are maintained by people who do not realize that it even exists in the first place. Or, if I am being less charitable, people who do not *want* to realize that they exists. They’ll acknowledge the heinousness of specific acts. They’ll say that a specific depiction didn’t age well, admit a politician said something bigoted, or agree it’s awful the laws that are being passed these days: those things “shouldn’t” happen. But the status quo – the system – remains in place, and so they do happen, and will continue to.
+
+It’s a familiar pattern. For example, police brutality in America, especially against Black people, is a systemic problem, but it’s handwaved away as a few bad apples. Sometimes this dismissal is malicious, but more often I think it’s an inability to recognize and comprehend systems.
+
+On a fundamental level, most people aren’t really built for that. We’re built for stories. When we think of the French Revolution, we don’t think of the crop failures jacking up the price of bread; we think of Marie Antoinette yammering on about cake, never mind that she never said any such thing. The inability to perceive and understand systems is at the heart of conspiratorial thinking. Rather than accept that the world’s ills and one’s own powerlessness are the result of complicated, overlapping systems and metastasized cultural norms, conspiracy theories “appear to make sense out of a world that is otherwise confusing” in “an appealingly simple way, by dividing the world sharply between the forces of light, and the forces of darkness. They trace all evil back to a single source, the conspirators and their agents.”[^4] These oddly-comforting fairy tales not only do harm by allowing oppressive systems to remain in place unchecked, but result in self-destructive behaviors and political violence. It is a huge and concerning problem. ^p4
+
+Systems haunt our world. Like a ghost, they are intangible, invisible, inscrutable. They are resistant to our perception and our understanding. Partially, this is because once we come to understand them, we realize they can only be addressed by substantive and disruptive changes to the status quo: a hard sell for creatures that seek stability. We also have to grapple with our own position, privilege, and complicity within those systems, which can be discomforting. It’s easier for our conscience not to see it.
+
+And partially, systems are resistant to our perception because they’re hard to tell stories about. There are no characters. There is no three act structure or arc: systems are rather static things, possessed of a frightening permanence. There is no memorable scene with quotable dialogue where Patriarchy and Capitalism have a nice lunch together.[^5]
+
+A lot of this could also describe the stories games tell on a mechanical level. (Particularly board games, which are less narratively-minded and film-envious than digital ones.) The literalization effect we discussed earlier allows games to model systemic factors in blunt, tangible ways. (Particularly board games, which have a literal physicality to them.) Games encourage us to think systemically in order to play them competently. (Particularly board games, which require us to understand the system before we can even play it in the first place.)
+
+Games, then, allow us to tell ghost stories. They can be a valuable tool in allowing us to perceive, understand, and interrogate systems of oppression: a necessary step before we can work toward dismantling them. My particular focus in this book is how board games specifically are well-suited to this purpose. They take these ghosts and make them into pieces of cardboard we can touch, manipulate, and comprehend, and the very act of wrapping our head around a board game – its rules and interactions – is an act of systemic thinking that also encompasses wrapping our head around the system it is modeling. This we will discuss in our next chapter. ^p5
+
+Then, we’ll take a look at the wargaming/simulationist tradition of board game design, its history, and its evolution. Historical games will generally be a focus throughout the book for multiple reasons: it is my background, it is home to the simulationist tradition in commercial board game design, and history is full of systemic tragedies.
+
+Once we have this foundation, we will then discuss two contradictory approaches to game design. The first, valuing immersion and identification, speaks to our need for character-based stories by centering players as specific agents. The second, valuing alienation and distance, centers observation of a model and positions the players outside of it. Both approaches have their advantages and disadvantages.
+
+In the concluding chapter, we’ll look at the pitfalls and limitations of, and barriers to, modeling oppressive systems in games. As you might imagine, these games are tackling difficult subjects that must be approached carefully, thoughtfully, and ethically. Further, the qualities that make board games a useful tool for this kind of modeling also drastically limit their audience, compounded by the fact board games are not a form of easily-accessible mass media.
+
+Perhaps they never will be? As an art form, games are quite nascent. Despite being thousands of years old, their potential is just beginning to be explored and developed. I have a great deal of hope for games as a way to understand systems, as well as bitter doubts about their ultimate usefulness. This book is meant as an expression of both this hope and this despair. A snapshot of the present state of the art, a paean to what it might be capable of, and a fearful threne of how it might fall short.
+
+As you might surmise from me using words like “threne”, I am much more of a humanities sort of gal than STEM, and this will be reflected throughout the text. I will frequently draw comparisons to other art forms, particularly to video games and film; the first, because like board games, it is interactive and systems-based, and the second, because like both these types of games, it is a form depending on the synthesis of several artistic disciplines. While there is a throughline running through the following chapters, each also functions as an essay riffing on its stated aspect of the subject: sometimes digressive, sometimes personal,[^6] always annotated.[^7]
+
+## Bibliography
+
+- Barkun, Michael. Interview by Chip Berlet, [publiceye.org/antisemitism/nw_barkun.html](http://publiceye.org/antisemitism/nw_barkun.html)
+
+
+[^1]: At that time, despite desperately incisting I was a man to everyone, especially myself, I was reading a lot of trashy trans Tumblr blogs *for some mysterious reason*.
+
+[^2]: It in fact became less profitable, who woulda thunk it?
+
+[^3]: An “egg” in this parlance is a trans person who is closeted, even to themselves; “cracking” is that moment of realization. The terms are used by trans people of all sorts of genders, but has its origins in online trans femme culture, because when an egg cracks, out pops a chick.
+
+[^4]: Barkun, Michael. Interview by Chip Berlet. September 2004. Barkun’s book *A Culture of Conspiracy* is well worth reading.
+
+[^5]: The name of this ship is PatCap, and there would be a surprising amount of slash fic for it on Ao3. It gives me no pleasure to report this.
+
+[^6]: I’ve met, spoken with, and worked with several of the people whose works I will be discussing. They have touched my life in some way. I cannot let that pass uncommented, both because ethics compels me to indicate where I may be biased, and because I am at heart a sentimental creature.
+
+[^7]: One of my favorite books is *The Devil’s Details: A History of Footnotes*, by humor columnist Chuck Zerby. The book is a slim, breezy thing, full of interesting anecdotes about the uses of footnotes, and is itself absolutely lousy with them. I was instantly smitten with the thing, and I promised myself I would buy any book he wrote. Unfortunately, it proved to be his only book; he died of cancer the year after it was published. I’ve always said, if I wrote a nonfiction book, I would include as many footnotes as possible. It turns out in 2024, due to e-book formatting, the number possible is zero, and so I must settle for end-of-the-chapter endnotes. (The Zerby book itself has an e-book version; all of its footnotes have been converted into endnotes.) It’s not the end of the world, of course, and as someone who makes physical games, and thinks a lot about (1) the physical form things take and how that physical form creates meaning, and (2) how artistic conventions evolve and are determined by the processes in which things are reproduced and/or manufactured, I’ve found this whole thing terribly interesting.

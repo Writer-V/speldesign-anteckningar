@@ -1,0 +1,137 @@
+---
+book: Cardboard Ghosts
+author: Amabel Holland
+chapter: 4
+doi: 10.1201/9781003500834-4
+tags:
+  - book/cardboard-ghosts
+---
+# Chapter 4: Wargaming as Technique
+
+*From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-4](https://doi.org/10.1201/9781003500834-4). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
+
+[[Chapter 3 - The Paper Time Machine|← Chapter 3]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 5 - Immersion and Identity|Chapter 5 →]]
+
+## Games as Arguments
+
+A wargame can model its subject in exacting detail, layering mechanisms and sub-systems on top of each other to make the simulation more accurate and felicitous. But to what end? It is impossible to represent a thing with complete accuracy; models and stories are always approximations of the truth. Or, as G.E.P. Box famously put it, *All models are wrong, but some are useful*.
+
+> For such a model there is no need to ask the question ‘Is the model true?’. If ‘truth’ is to be the ‘whole truth’ the answer must be ‘No’. The only question of interest is ‘Is the model illuminating and useful?’.[^1]
+
+Or, for our purposes, does the thing actually have a point? Does the simulation make an argument or test a thesis?[^2] Or is it simply a collection of mechanisms – a recreation of unrelated, unorganized facts, all of which are true singly, but which never come together? A detailed, complicated game borne of hundreds of hours of research might represent a dozen factors in a dozen novel, interesting ways, each of them individually apt, but not communicate anything of value. Conversely, a very simple game, uncluttered by extraneous detail, speaks directly, clearly, and with verve.
+
+It is a little like building a table, or embarking on a romance. You must know what you want before you begin, and proceed thoughtfully and mindfully to that end. A kitchen table requires a different approach than a writing desk or a night table; a casual fling, a different kind of vulnerability than a long-term partnership. A designer must understand what they want to say or explore before they start building their game. ^p31
+
+Dunnigan highlights this as the “first, and most important step”[^3] in a game’s development, as it
+
+> allows you to decide what particular aspect of the game you wish to spotlight. You may have a pet theory about a particular historical situation regarding the critical elements. You can do your game stressing these particular elements, be they leadership, weather, geography, the effects of certain weapons or whatever.[^4]
+
+One of Dunnigan’s most popular designs is the appealingly simple *Panzergruppe Guderian*. Its model of the 1941 Battle of Smolensk hinges on two points. First, that German mechanized troops and tank doctrine gave them an offensive advantage. Second, that Soviet troops were quite green and untested. For this type of wargame, it is quite standard for a player’s turn to consist of a move phase followed by a combat phase. This is true here as well, but the Germans are given a second move phase, specifically for their mechanized units, which may additionally conduct extra “overrun” attacks during their movement phases. A player can come away from this game with a general idea of how tanks and motorized infantry led to a German victory.
+
+To model the second crucial factor, the Soviet player’s counters are deployed randomly and face-down, their strengths hidden to both players, only to be revealed at the moment of combat. Some of these units have no combat strength at all, and are immediately removed – instantly collapsing at first blush. This concept was integral to the design. Richard Berg, credited as the game’s developer, once described the creation of the game.
+
+> I said, give me the game. So [Dunnigan] hands me a map that I think he drew with a Crayola set, and about one-third of a column of information, the order of battle. And the one thing I kept in the game was the fact that the units had unknown strengths. The map was dead wrong. The map was of New Jersey. I had to redo the whole map. But the one thing about *Panzergruppe Guderian* that was great, the one thing that Jim put into it, was the [unknown] strength.[^5]
+
+Like many wargames, *Panzergruppe Guderian* is focused on modeling the kinetics of battle, and making arguments about which factors were decisive. But wargames have also modeled non-kinetic elements, such as politics, either as a component of their kinetic model, or as the game’s sole focus. An early if uninspired example of the latter is *Origins of World War II*, a 1971 simulation of international diplomacy during the 1930s. This sees players, representing the major powers, placing their political influence in other countries to attempt to gain their allegiance. One can try to force out the influence of another country with their own by making a roll on a Diplomatic Results Table, with the roll cross-referenced with the odds-ratio of attacker-to-defender. ^p32
+
+Comparatively more sophisticated is the model of internal and external politics in *Nicaragua!*, a 1988 game covering the then on-going Nicaraguan Revolution. This game featured a number of tracks measuring the support or neutrality of seven social groups – students, intellectuals, workers, the church, indigenous peoples, Somocistas, and the middle class – as well as the support of the United States, the Soviet Union, and neighboring Latin American countries. Actions taken in the game move these markers up and down their tracks, stressing the conflict’s multifactional nature, and the inherently messy, complicated business of coalition building.
+
+## Kubrick’s Two Golden Eagles
+
+One feature of the more popular “crossover” wargames of the last decade is an emphasis on political subjects over supposedly “apolitical” kinetic ones. Anecdotal evidence suggests some of the hostility expressed toward these newer games by some of the old guard has at least as much to do with this emphasis as it does the influx of new mechanisms borrowed from euro-style games.
+
+There is no such thing, of course, as an “apolitical” battle or war. But pretending there is nothing political about German panzers overrunning the countryside, reducing it to an abstract dance of maneuver, prevents disquieting reflection while you’re pushing those panzers around a map. Stanley Kubrick once spoke about this in a different context, while he was preparing his never-made film of the life of Napoleon.
+
+> You know, there’s a weird disparity between the sheer visual and organizational beauty of the historical battles sufficiently far in the past, and their human consequences. It’s rather like watching two golden eagles soaring through the sky from a distance; they may be tearing a dove to pieces, but if you are far enough away the scene is still beautiful.[^6] ^p33
+
+Kinetic wargames can be very good at capturing the soaring of those eagles, but often forget the dove, and more than that, often elide the *reason* those eagles are going after the dove in the first place. It is not an accident that these crucial factors are omitted from these simulations. Game designers Volko Ruhnke and Brian Train[^7] point out
+
+> wargames will rarely if ever feature game mechanics representing terrorism or genocide, though these are common features of actual warfare… It is somewhat ironic that wargames attempt to portray the species at its most illogical and atavistic through a rational framework of consistent logical regulation and mathematics and a prim concern for only what is thought to be ‘militarily significant’.[^8]
+
+Ruhnke and Train have both designed games concerned with terrorism, counterinsurgency, and political conflict. Both are also an example of the cross-pollination between professional wargaming and its commercial cousin. Train has done consultancy for the Department of Defense. Ruhnke designed and ran games as an intelligence analyst for the CIA. This is nothing new. Charles S. Roberts adopted a hexagonal grid for his games after learning RAND used hexes for its wargames. SPI staffers were frequently asked to design simulations for the military, and one of SPI’s most notable designers, Mark Herman, had a long career at Booz Allen Hamilton, the defense contractor best known today as the place from which Edward Snowden leaked documents relating to mass surveillance of the internet.[^9]
+
+As commercial board wargame designers, Herman and Ruhnke are each responsible for innovative titles with an emphasis on politics over kinetics, and I wonder if partially this is because of their experience in the professional sphere. Historically, professional wargames have been more concerned with the causes and human consequences of war than the commercial wargames that often deliberately omit both so they can focus on maneuver and indulge in weapon fetishism about the ranges and armor-piercing capabilities of various guns and cannons.
+
+So to my mind, it makes sense designers with professional wargaming experience would bring that interest in political and inter-factional modeling to their commercial designs. It is worth noting these games, in emphasizing those elements, also de-emphasize or elide the kinetic aspect – what might traditionally be termed the “war” part of “wargaming” – making them more palatable to the wider audiences they are trying to engage. (In a way, it’s a different act of sanitization than the two eagles seen from afar.) ^p34
+
+These games often model the *nature* of political power. A good example is Herman’s *Churchill*, a three-player treatment of the ten diplomatic conferences attended by Churchill, Roosevelt, and Stalin. Players pursue their own agendas while cooperating in opposition to the Axis Powers; failure to do so will lose the war and the game. Upon winning the war, the player with the most points wins – unless the player’s score far exceeds that of the player with the least points, indicating that they have bullied and run roughshod over the others. That’s a poor way to maintain allies, and will result in the other two players forming a post-war military alliance against you – potentially allowing one of them to steal the win, despite having fewer points!
+
+The game argues the key to effective diplomacy is keeping everyone happy *enough*, and maintaining a degree of parity between all parties. It is amusing to note some gamers rather missed the point, complaining they abandoned issues they cared about so as not to extend their lead too much, or they had to pay close attention to how their rivals were doing. Which is, of course, exactly the sort of behavior the game was incentivizing, and is a crucial part of the game’s argumentation.
+
+Ruhnke’s *Andean Abyss* was the first volume in GMT’s COIN (counter-insurgency) series of multiplayer asymmetric games, each modeling a civil war or other internal conflict, though in many cases, for example *Fire in the Lake* (Vietnam War) and *A Distant Plain* (the war in Afghanistan beginning in 2001), this involves a foreign power. Each faction’s abilities and victory conditions are carefully constructed to evoke its historical point of view and prerogatives. As a series – as a shared system – it makes an argument about the messy, tenuous nature of power within these conflicts, and how even allies, such as the U.S.-led military forces and the Afghani government, have goals which are sometimes at odds with each other.
+
+## The Wargaming of Root
+
+The series has proven so popular the term “COIN game” has been applied to games outside the series, from other publishers, even if they do not share any of its mechanical DNA. Cole Wehrle’s[^10] wildly popular *Root* is sometimes called “an introductory COIN game”, but it does not play anything like them. It does model a multi-faction internal conflict in which each faction has its own uniquely-tailored actions and ways of scoring victory points, but its mechanical approach is quite different, as is its subject. *Root* is a non-historical game about cute fuzzy animals performing atrocities on each other; rather than embody historical actors, each faction represents a different philosophy of political power– from the imperialist, capitalist cats eager to exploit the woodland, to the aristocratic authoritarianism of the birds, to the revolutionary Woodland Alliance. ^p35
+
+Each of these is given a compelling mechanical metaphor, both embodying its political philosophy and making an argument about it. My favorite example is those aforementioned birds, the Eyrie – the woodland’s ancien regime. Each turn, this player adds at least one card to their “Decree”, a tableau of cards dictating the actions the Eyrie performs on its turn. If you’ve two cards assigned to Recruit, you must Recruit two units; three to Move, you must Move three units. Each card has a suit which determines *where* these actions must take place. As you add more cards to your Decree, you are doing more each turn, but it’s also getting harder to keep all of these promises. Fail even one of them, and the regime collapses: the Decree is wiped clean, your vizier is deposed and replaced, and you lose face (and victory points). The thing about the Decree isn’t that it *can* fail, but that it *will* fail. This outdated, rigid structure cannot last. More importantly, it lacks the imagination and capacity to reform itself. As an evocation of the late stages of monarchial authoritarianism in a revolutionary milieu, it is incredibly apt.[^11]
+
+## Objectivity in Modeling
+
+Something *Root* shares with the COIN games it is sometimes lumped in with is it demonstrates how each faction or philosophy operates, and its strength and weaknesses in competition with the others. They make an argument about how things work, but not about how they *should* work; these games, and indeed most wargames about political power, make arguments *about* things but not arguments *for* or *against* them. Their object is not to persuade you of something, but to simply provide you with facts so you might make up your own mind and draw your own conclusions. Giving each side its due, free from any judgement, is at the heart of the immersive approach we’ll be discussing in our next chapter. ^p36
+
+In our culture, objectivity and balance are seen as hallmarks of maturity, and are desired features in treating historical subjects. And this is because this cultural norm maintains the stagnant status quo. Systems of oppression are not overthrown because they have taught us first and foremost to doubt our own convictions and give the devils their due.
+
+Wargames are capable of forceful, confident persuasion when it is a question of tank doctrine, but they prevaricate when modeling questions about the nature of political power. They are not incapable of doing so; they are unwilling. In fact, because of the bluntness of the form, they are quite capable of doing so and have a natural tendency toward didacticism. As in day-to-day speech, it actually takes less effort to say something with your whole chest than to tergiversate.
+
+There are some happy exceptions, games which are unafraid to be direct. Tory Brown’s *Votes For Women*, about the women’s suffrage movement in the United States, is unabashedly for women’s suffrage, and is a celebration of the movement’s victories. It makes an argument about how political movements agitate for change from the ground-up.
+
+It’s also mindful of the racism and classism within the movement, and does not paper over it but confronts it. The suffrage player has two colors of pawns, representing splits in the movement over race and other issues, including questions of political violence and direct agitation. Having published my own game on the subject a few years prior, I’m rather jealous of this elegant mechanical metaphor.[^12] Brown’s game shows it is possible to treat a subject with nuance without equivocating.
+
+There has been a crop of recent games wearing their politics on their sleeve. *Spirit Island* is joyfully anti-colonialist. *Bloc By Bloc* sees its players participate in revolutionary insurrection. These cooperative games depict opposition to dominant political forces, and are thus an encouraging sign, but do not necessarily depict, on a systemic level, why that opposition is necessary. Playing *Spirit Island* will not convince you to interrogate colonialism; it takes it as a given you’re already against it. (As you should be!)
+
+Compare this to a game like *Colonialism*. This is a bleak and bitter game emphasizing the human cost of colonialist exploitation. In pursuit of the natural resources of Africa and Asia, it has its players, each representing a colonialist power, perpetrate atrocities. These are handled abstractly with the removal of indigenous pieces from the board – pieces which in most games would not even exist to begin with, as many games about exploitation of resources depict the colonized land as terra nullius. ^p37
+
+## Complicity Is Required for Systemic Modeling
+
+You’ll note an obvious difference between *Spirit Island* and *Colonialism*. One casts players as working against the horrors of colonialism, and one asks us to embody them. We are made complicit in the system of oppression in order to critique it.
+
+In fact, this is broadly true of every board game I know of which models and interrogates oppressive systems. Sometimes this is done by casting all players in the oppressive role, and sometimes, particularly in two-player games, only one of the players acts on behalf of the oppressive system. If engaging with games as systems allows us to understand those systems, it naturally follows we must see those systems in action – a player must operate the levers in order for there to be understanding. They must act, instead of only be acted upon. (This naturally raises a number of uncomfortable concerns and questions for a designer to grapple with, which we’ll have occasion to touch on across the remaining chapters.)
+
+This also broadly holds true for video games; a game like *Papers, Please* works because we are within the system rather than outside of it. To be clear, this isn’t to say one approach is better than the other; each approach is better-suited toward their individual ends. There is a great deal of utility in games which allow us to directly oppose and dismantle oppressive systems and ideologies, especially in a marketplace flooded with games that accept those premises and power structures without examining or recognizing them. It just serves a different purpose than games seeking to express *why* those systems should be opposed and dismantled.
+
+Many of the games we’ve discussed in the last several paragraphs of this chapter on wargaming aren’t the sorts of games one thinks about when hearing the word. But this is only true if we define a thing by its external signifiers – subject matter, mechanical texture, presentation, marketing. If we follow Dunnigan’s lead and correctly conceptualize wargaming as a technique or approach, as a serious-minded simulationist tradition with the purpose of education, prediction, or persuasion, then these games are firmly rooted within it.
+
+## Bibliography
+
+- Berg, Richard & Herman, Mark. Interview by David Dockter. *Guns, Dice, Butter*, Episode 24, November 2015.
+- Box, G.E.P. (1979). *Robustness in the Strategy of Scientific Model Building*. Department of Statistics and Mathematics Research Center, University of Wisconsin-Madison.
+- Brown, Tory (2022). *Votes For Women* (board game). Fort Circle Games.
+- Dunnigan, James (1971). *Origins of World War II* (board game). Avalon Hill Game Company.
+- Dunnigan, James (1980). *The Complete Wargames Handbook: How To Play, Design, and Find Them*. 1992 edition. William Morrow and Company.
+- Dunnigan, James & Berg, Richard (1976). *Panzergruppe Guderian* (board game). SPI.
+- Herman, Mark (2015). *Churchill: Big Three Struggle For Peace* (board game). GMT Games.
+- Holland, Amabel (2020). *The Vote: Suffrage and Suppression in America* (board game). Hollandspiele.
+- Kubrick, Stanley (1970). *Interview by Joseph Gelmis. The Film Director As Superstar: Kubrick, Lester, Mailer, Nichols, Penn, Polanski, and Others*. Doubleday & Company.
+- Leibbrandt, Scott W. (2013). *Colonialism* (board game). Spielworxx.
+- Loring-Albright, Greg & Simons, T.L. (2022). *Bloc by Bloc: Uprising* (board game). Out of Order Games.
+- Miranda, Joseph & Burtt, John D. (1988). *Nicaragua!* (board game). *Strategy & Tactics Magazine* #120, 3W.
+- Reuss, R. Eric (2017). *Spirit Island* (board game). Greater Than Games.
+- Ruhnke, Volko (2012). *Andean Abyss* (board game). GMT Games.
+- Train, Brian & Ruhnke, Volko (2016). “Chess, Go, and Vietnam: Gaming Modern Insurgency”. Edited by Pat Harrigan and Matthew G. Kirschenbaum. *Zones of Control: Perspectives on Wargaming*. MIT Press.
+- Wehrle, Cole (2018). *Root: A Game of Woodland Might and Right* (board game). Leder Games.
+
+
+[^1]: G.E.P. Box, *Robustness in the Strategy of Scientific Model Building*, pg. 3. Academic Press. William Morrow and Company, 1980.
+
+[^2]: That argument may be as simple as, “this is what happened and how”; the thesis, “this is what happened and why.” The goal of many historical games is education. When you write an essay or make a documentary on a subject, a vital question is how the information is organized, which information is used or omitted, and what takeaways you intend an audience to, well, take away from it. Even when your argument is “these were the important factors in this event”, it is still an argument.
+
+[^3]: James Dunnigan, *The Complete Wargames Handbook: How To Play, Design, and Find Them*, pg. 110. William Morrow and Company, 1980.
+
+[^4]: James Dunnigan, *The Complete Wargames Handbook: How To Play, Design, and Find Them*, pg. 112. William Morrow and Company, 1980.
+
+[^5]: Interview with Richard Berg and Mark Herman by David Dokter, *Guns, Dice, Butter*, Episode XXIV, November 2015. Dokter’s podcast has many interviews with former SPI and Avalon Hill wargame designers, and is an invaluable resource.
+
+[^6]: Joseph Gelmis. *The Film Director As Superstar: Kubrick, Lester, Mailer, Nichols, Penn, Polanski, and Others*. Doubleday & Company, 1970.
+
+[^7]: Brian Train is a thoughtful designer, unafraid to experiment, with a wry, impish sense of humor. I first ran into him online when I was quite early in my career, still looking for publishers for my designs. He was very encouraging, and even sent me a copy of one of his published games in exchange for one of my still-rough prototypes – a trade that was ridiculously lopsided in my favor. I’ve since had the pleasure of publishing nine of his games over the years, and he facilitated my introduction to other designers whose works I subsequently published. I have met him only once in person, at a convention in 2018. He was witty, soft-spoken, generous with his time, and displayed a sharp curiosity about the world. He gifted me a copy of his abstract game *Guerrilla Checkers*, a simple and elegant depiction of asymmetric warfare in which an insurgent force plays Go while, simultaneously, a counterinsurgent or occupying force is playing Checkers.
+
+[^8]: Brian Train and Volko Ruhnke, “Chess, Go, and Vietnam: Gaming Modern Insurgency”. *Zones of Control: Perspectives on Wargaming*, pg. 515. MIT Press.
+
+[^9]: Speaking frankly as a leftist anarchist, the whole thing where my niche of board game design is deeply enmeshed with the project of American imperialism and the erosion of civil liberties is, uh, *not great*. It’s a primary reason why I’ve been slowly moving my work into other directions.
+
+[^10]: I’m going to be mentioning three more of Cole’s games in our next chapter, so this is the point where I disclose I consider him a friend – not merely an acquaintance that I’ve brushed shoulders with like the various old guard wargame designers I’ve footnoted. Years ago, Cole wrote a nice little strategy article about my game *Northern Pacific*. Impressed by his writing, I reached out to him in 2016 asking if he could write an article for the magazine I was editing at the time. Around that time, his first game had come out to much acclaim, and I was trying to get my company Hollandspiele off the ground, and so I thought, “what the hell, wouldn’t hurt to ask this hotshot designer if he’d design something for this tiny unproven company no one has heard of”, and to my delight and astonishment, he said yes. *An Infamous Traffic* got the company into the black within our first three months, brought more eyes onto our entire catalogue, and enabled me to quit my day job, designing games full-time. This in turn brought our company to Erin Escobedo’s attention, which was essential to the rebirth of Amabel. There was absolutely no reason for him to say yes, and because he did it anyway, my entire life changed for the better. What a lovely, generous human being – thoughtful, kind, and willing to both seek out new voices and to help them find an audience.
+
+[^11]: I have by my count played fifty or sixty games of *Root*, and I have played the birds exactly that same number of times. I’ve never even been tempted to play another faction. To my taste, none of them are quite this interesting, both mechanically and rhetorically. As a designer who obsessively creates systems built to fall apart, I can’t help but be fascinated.
+
+[^12]: My game, *The Vote: Suffrage and Suppression in America*, is quite a bit angrier, and depicts in parallel the construction of voter suppression laws in the deep south. While the anti-suffrage player can obstruct and oppose the suffrage movement, the reverse is not true. On a mechanical, systemic level, I mean to illustrate the problem with social movements that lack intersectionality. This problem took on more personal significance as I was coming to grips with my gender identity during the time I was working on the game, and observing how certain strains of feminism and progressivism were more than happy to leave trans people out to dry.
