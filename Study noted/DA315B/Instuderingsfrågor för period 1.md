@@ -6,11 +6,9 @@ tags:
   - study-questions
 ---
 # Instuderingsfrågor för period 1
-
 *Från kursens PDF (`Instuderingsfrågor för period 1.pdf`, rubricerad "Tack ChatGPT"). Nivårubrikerna (Level 1–18) är PDF:ens egna. 146 frågor; bocka av dem allt eftersom.*
 
 ## Level 1
-
 - [ ] **1.** Vad är en programmerares roll när det gäller att använda datorer för att lösa meningsfulla problem?
 - [ ] **2.** Vilka två huvudsakliga problem uppstår när det gäller kommunikation mellan människor och datorer?
 - [ ] **3.** Vad är det som gör programmeringsspråk som C# en viktig bro mellan människor och datorer?
@@ -20,7 +18,6 @@ tags:
 - [ ] **7.** Vad gör .NET:s runtime för en C#-applikation?
 
 ## Level 3
-
 - [ ] **1.** Vad är syntax i samband med programmeringsspråk och vad kallas samlingen av regler som beskriver detta?
 - [ ] **2.** Vad är en "string literal" och hur används det inom C#?
 - [ ] **3.** Vad är en identifierare och vad är deras funktion inom C#-kod?
@@ -41,7 +38,6 @@ tags:
 - [ ] **18.** Vad innebär det när du säger att "Release"-konfigurationen har "optimeringar" aktiverade?
 
 ## Level 4
-
 - [ ] **1.** Vad är syftet med kommentarer i din C#-kod?
 - [ ] **2.** Vilka olika användningsområden har kommentarer i en C#-kod?
 - [ ] **3.** Vad är en "TODO"-kommentar och när är det lämpligt att använda den?
@@ -51,7 +47,6 @@ tags:
 - [ ] **7.** Vilken är den viktigaste riktlinjen när det gäller att skriva meningsfulla kommentarer i din C#-kod?
 
 ## Level 5
-
 - [ ] **1.** Varför är det viktigt att lagra data i temporärt minne när man bygger programvara?
 - [ ] **2.** Vad är volatilt minne (RAM) och vad händer med dess innehåll när ett program avslutas eller datorn startas om?
 - [ ] **3.** Vad är tre delar som utgör en variabel? Beskriv dem kort.
@@ -63,7 +58,6 @@ tags:
 - [ ] **9.** Vad är några viktiga riktlinjer när du väljer namn för dina variabler? Varför är det viktigt att använda beskrivande namn?
 
 ## Level 6
-
 - [ ] **1.** Vad är inbyggda typer eller primitiva typer, och varför är de viktiga?
 - [ ] **2.** Förklara varför olika typer inte är utbytbara när det gäller att representera data i binär form.
 - [ ] **3.** Beskriv begreppet heltalstyper i C#.
@@ -80,7 +74,6 @@ tags:
 - [ ] **14.** När kan du välja att använda "Parse"-metoder istället för "Convert"-klassen för typkonvertering?
 
 ## Level 7
-
 - [ ] **1.** Vad är en operation i programmering och hur kan den använda sig av operatorer och operand?
 - [ ] **2.** Vad är en unär, binär och ternär operator? Kan du ge exempel på varje typ?
 - [ ] **3.** Ge exempel på hur addition, subtraktion, multiplikation och division kan användas i C#-kod.
@@ -110,7 +103,6 @@ tags:
 - [ ] **27.** Hur använder du casting operatorn för att utföra en explicit konvertering mellan datatyper i C#? Ge ett exempel.
 
 ## Level 8
-
 - [ ] **1.** Vad är skillnaden mellan Console.Write och Console.WriteLine-metoderna när det gäller utmatning av text?
 - [ ] **2.** Hur använder du Console.ReadKey-metoden för att få en enkel tangenttryckning från användaren?
 - [ ] **3.** Hur ändrar du bakgrundsfärgen och textfärgen i konsolfönstret med hjälp av Console-klassen? Vilken typ av värden använder du för att ställa in färgerna?
@@ -118,7 +110,6 @@ tags:
 - [ ] **5.** Vad är funktionen för Console.Beep-metoden? Vilka två versioner av metoden finns och vad är syftet med varje parameter?
 
 ## Level 9
-
 - [ ] **1.** Vad är skillnaden mellan "if"-satsen och "else"-satsen? Ge ett exempel på hur du skulle använda dem tillsammans.
 - [ ] **2.** Vad är en "else if"-sats och hur används den i beslutsfattande i C#?
 - [ ] **3.** Vad är omfattningen (scope) av en variabel som deklareras inuti ett block? Kan variabler som deklareras i ett block användas utanför blocket?
@@ -132,7 +123,6 @@ tags:
 - [ ] **11.** Vad är det "villkorsbaserade" (conditional) operatören (även kallad ternär operator) i C# och hur använder du den? Ge ett exempel på hur du skulle använda den.
 
 ## Level 11
-
 - [ ] **1.** Vad är en "while loop" och hur skiljer sig dess struktur från en "if statement"?
 - [ ] **2.** Vad är skillnaden mellan en "while loop" och en "do/while loop"?
 - [ ] **3.** Ge ett exempel på hur du skulle använda en "while loop" för att skriva ut talen 1 till 5.
@@ -144,7 +134,6 @@ tags:
 - [ ] **9.** Hur kan du använda en nästlad loop för att skapa en enkel mönsterutskrift, som en rutmönster av stjärnor? Ge ett exempel.
 
 ## Level 12
-
 - [ ] **1.** Varför är det inte praktiskt att skapa flera variabler för att lagra poängen om du vill ha en topplista med flera poäng i ditt spel?
 - [ ] **2.** Vad är en array och hur skiljer sig dess användning från en enstaka variabel?
 - [ ] **3.** Hur deklarerar du en array-variabel för att lagra heltal (int)?
@@ -158,7 +147,6 @@ tags:
 - [ ] **11.** Hur skapar du en "multidimensional array" och initialiserar den med specifika värden?
 
 ## Level 13
-
 - [ ] **1.** Vad är en metod och vad är dess syfte i programmering?
 - [ ] **2.** Vad är syntaxen för att definiera en ny metod?
 - [ ] **3.** Vad är namnet på en metod och vilken konvention används ofta för namngivning av metoder i C#?
@@ -169,7 +157,6 @@ tags:
 - [ ] **8.** Hur definierar du en metod som returnerar ett värde?
 
 ## Level 15
-
 - [ ] **1.** Vad är grundläggande idén med objektorienterad programmering (OOP)?
 - [ ] **2.** Hur bidrar objektorienterad programmering (OOP) till att hantera komplexiteten hos stora program?
 - [ ] **3.** Vad är fördelarna med att dela upp ett program i olika objekt med specifika ansvarsområden?
@@ -181,7 +168,6 @@ tags:
 - [ ] **9.** Hur hjälper objektorienterad programmering (OOP) oss att lösa problem som inte passar väl in i de grundläggande datatyperna?
 
 ## Level 18
-
 - [ ] **1.** Vad är en klass och vad är dess roll i objektorienterad programmering?
 - [ ] **2.** Vad är en objekt i samband med programvara och vad är dess ansvar?
 - [ ] **3.** Vad är fördelen med att använda klasser och objekt för att organisera programvara?

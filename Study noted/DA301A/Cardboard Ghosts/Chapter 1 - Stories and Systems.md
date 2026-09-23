@@ -7,7 +7,6 @@ tags:
   - book/cardboard-ghosts
 ---
 # Chapter 1: Stories and Systems
-
 *From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-1](https://doi.org/10.1201/9781003500834-1). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
 
 [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 2 - Mechanical Metaphors|Chapter 2 →]]
@@ -57,7 +56,6 @@ Perhaps they never will be? As an art form, games are quite nascent. Despite bei
 As you might surmise from me using words like “threne”, I am much more of a humanities sort of gal than STEM, and this will be reflected throughout the text. I will frequently draw comparisons to other art forms, particularly to video games and film; the first, because like board games, it is interactive and systems-based, and the second, because like both these types of games, it is a form depending on the synthesis of several artistic disciplines. While there is a throughline running through the following chapters, each also functions as an essay riffing on its stated aspect of the subject: sometimes digressive, sometimes personal,[^6] always annotated.[^7]
 
 ## Bibliography
-
 - Barkun, Michael. Interview by Chip Berlet, [publiceye.org/antisemitism/nw_barkun.html](http://publiceye.org/antisemitism/nw_barkun.html)
 
 

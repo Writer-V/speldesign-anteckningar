@@ -19,11 +19,9 @@ tags:
 > Converted from the epub. Each chapter is its own note in the `Cardboard Ghosts` folder (see [[#Contents]]); endnotes are real footnotes at the bottom of each chapter, and the book's index is [[Cardboard Ghosts Index]]. Print-edition page numbers are attached to paragraphs as block ids (`^p12`) so index entries and page citations can be followed.
 
 ## Citation
-
 Holland, Amabel. *Cardboard Ghosts: Using Physical Games to Model and Critique Systems*. CRC Press Guides to Tabletop Game Design (series editor Geoffrey Engelstein). Boca Raton: CRC Press, 2025. ISBN 978-1-032-81668-5 (hbk), 978-1-032-81344-8 (pbk), 978-1-003-50083-4 (ebk). DOI: [10.1201/9781003500834](https://doi.org/10.1201/9781003500834).
 
 ## Contents
-
 - [[Chapter 1 - Stories and Systems|Chapter 1: Stories and Systems]]
 - [[Chapter 2 - Mechanical Metaphors|Chapter 2: Mechanical Metaphors]]
     - [[Chapter 2 - Mechanical Metaphors#Systems and Synthesis|Systems and Synthesis]]
@@ -84,7 +82,6 @@ Holland, Amabel. *Cardboard Ghosts: Using Physical Games to Model and Critique S
 - [[Cardboard Ghosts Index|Index]]
 
 ## About the book
-
 Games can be used to model systems because they are themselves systems. Video games handle this under the hood and teach you as you play, but because board games are operated manually, and require the player to understand the system beforehand, they can be a valuable tool for recognizing, understanding, and critiquing real-world systems, including systems of oppression. These systems, often unseen and misunderstood, haunt our world. Board games turn these ghosts into pieces of cardboard we can see, touch, and manipulate.
 
 ***Cardboard Ghosts: Using Physical Games to Model and Critique Systems*** explores both the capabilities and limitations of overtly political board games to model systems and make arguments. Two major approaches are considered and contrasted: one, built around immersion and identification, creates empathy. The other, applying the *Verfremdungseffekt* to distance the player from the game, creating space for reflection. Uncomfortable questions of player roles and complicity when modelling oppressive systems are examined.
@@ -100,7 +97,6 @@ Throughout this book, board game designer Amabel Holland draws connections to co
 - Lively prose and personal anecdotes makes complicated theory digestible for a wide audience.
 
 ## Series Preface
-
 The history of games goes back at least 5,000 years, and game materials are routinely found in archeological digs around the world. They are an integral part of what makes us human.
 
 And yet the scholarly study of games as a craft, tabletop games in particular, is a relatively recent development. Their study has gone hand in hand with an explosion of creativity in tabletop games, and increasing cultural penetration and acceptance in all their forms.
@@ -116,7 +112,6 @@ It is in this spirit that we are very pleased to bring you this volume of the CR
 Series Editor
 
 ## Acknowledgements
-
 There are three people without whom this book would not exist.
 
 Geoff Engelstein, my editor, who asked me if I wanted to write a book. He knew when to indulge my digressive tendencies and when to reign them in.
@@ -126,5 +121,4 @@ Samhain Bones, my partner, who gave me the time and space to write it. Many of t
 Erin Escobedo, my chosen sister, who changed how I thought about games. When I reached out she grabbed my hand and held it tight, and that’s a debt I can never repay.
 
 ## Author's Biography
-
 **Amabel Holland** is a board game designer, developer, and publisher, and in those capacities is responsible for over a hundred board games. Much of her work is experimental, concerned either with the potential of games as political art, or with the nature of games as cultural artifacts. According to the New Yorker, she is “widely considered one of today’s most innovative game designers.” She’s not so sure about that, but she’ll take it. A lifelong resident of the Detroit area, in her free time she creates video essays about games and their potential.

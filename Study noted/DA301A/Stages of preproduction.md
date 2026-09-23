@@ -1,0 +1,7 @@
+- [[Concept]]
+- [[Functional model]]
+	- Functionality, ompleteness, etc.
+- [[QA phase]]
+	- No more additions
+	- Concept is noneditable
+	- Bugs! Quash them!

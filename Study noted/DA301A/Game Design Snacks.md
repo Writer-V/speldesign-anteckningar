@@ -18,11 +18,9 @@ tags:
 > Converted from the course PDF (`Game Design Snacks.pdf`). Each of the 47 snacks is its own note in the `Game Design Snacks` folder; the book's screenshots are cropped from the PDF into `images/`. Page numbers in the frontmatter and in the [[#Index of Games]] refer to the print edition.
 
 ## Citation
-
 Zagal, José P. (ed.). *Game Design Snacks: Easily Digestible Game Design Wisdom*. Pittsburgh, PA: ETC Press, 2019. ISBN 978-0-359-72529-8 (print), 978-0-359-72531-1 (digital). Text licensed CC BY-NC-ND 4.0; images remain the property of their respective copyright owners. http://press.etc.cmu.edu/
 
 ## Introduction
-
 *What is this book about and how was it written?* — José P. Zagal
 
 They say that good design is invisible.
@@ -46,9 +44,7 @@ So, I’ve been asking students to write their own game design snacks as homewor
 We hope you enjoy this book and the amazing games that are out there. More importantly, we would like to think that perhaps you might be inspired to write and share your own game design snacks.
 
 ## Contents
-
 ### Learning and Guiding
-
 *How do game designers help players better understand how to play their games?*
 
 - [[01. Tutorials Should Explain the Many Ways Mechanics Can Be Used|Tutorials Should Explain the Many Ways Mechanics Can Be Used]] — McKenna Caldwell (p. 3)
@@ -57,7 +53,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[04. Rewarding Highly Specific Uses of Moves Trains Players to Teach Themselves Strategy|Rewarding Highly Specific Uses of Moves Trains Players to Teach Themselves Strategy]] — Benjamin Barker (p. 9)
 
 ### Change and Consequences
-
 *How can players can become more invested in a game’s world?*
 
 - [[05. Permanently Changing a Character’s Appearance is Memorable for Players|Permanently Changing a Character’s Appearance is Memorable for Players]] — Lee Neuschwander (p. 13)
@@ -66,7 +61,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[08. AI that Reacts Credibly is Better than Super Smart AI|AI that Reacts Credibly is Better than Super Smart AI]] — McKenna Caldwell (p. 19)
 
 ### Failure
-
 *How do game designers help players benefit from their own failures?*
 
 - [[09. What Happens When you Die in a Game Influences What Players do Next|What Happens When you Die in a Game Influences What Players do Next]] — Jacob Grahmann (p. 23)
@@ -75,7 +69,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[12. Foster Skilled Play by Encouraging Failure|Foster Skilled Play by Encouraging Failure]] — Kendal Kotter (p. 29)
 
 ### Movement and Navigation
-
 *What do game designers do to make moving around game worlds more interesting?*
 
 - [[13. Moving Between a Game’s Areas Should Always be Memorable|Moving Between a Game’s Areas Should Always be Memorable]] — Trevor Scott Richard (p. 33)
@@ -85,7 +78,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|Movement Mechanics Can Reinforce a Game’s Core Experience]] — Trevor Scott Richard (p. 41)
 
 ### Playstyles
-
 *What do game designers do to encourage players to play games in different ways?*
 
 - [[18. Allowing Players to Switch Classes Encourages Exploration of Game Mechanics|Allowing Players to Switch Classes Encourages Exploration of Game Mechanics]] — Jacob Grahmann (p. 45)
@@ -96,7 +88,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[23. Let Your Players Customize Their Own Risk-Reward Ratios|Let Your Players Customize Their Own Risk/Reward Ratios]] — Kendal Kotter (p. 55)
 
 ### Variety in Gameplay
-
 *What do game designers do to provide more gameplay options?*
 
 - [[24. Randomized Character Names and Traits Can Lead to More Engaging Experiences|Randomized Character Names and Traits Can Lead to More Engaging Experiences]] — Lee Neuschwander (p. 59)
@@ -107,7 +98,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[29. Being Overpowered Can Help Players Better Understand a Game|Being Overpowered Can Help Players Better Understand a Game]] — Kendal Kotter (p. 69)
 
 ### User Interface and Visual Information
-
 *What can game designers do to more effectively present information to their players?*
 
 - [[30. The User Interface Can Help the Player Share in their Character’s Experience|The User Interface Can Help the Player Share in their Character’s Experience]] — Lee Neuschwander (p. 73)
@@ -117,7 +107,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[34. Drawing Attention to Important Information in Multiple Ways Helps Players Understand Faster|Drawing Attention to Important Information in Multiple Ways Helps Players Understand Faster]] — McKenna Caldwell (p. 81)
 
 ### Multi-Purpose Design
-
 *How do game designers get multiple uses from design elements?*
 
 - [[35. It is Often Better to Use One Button for Many Things|It is Often Better to Use One Button for Many Things]] — Trevor Scott Richard (p. 85)
@@ -126,7 +115,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[38. Reward Systems that Unite Gameplay and Story Support Immersive Feedback Loops|Reward Systems that Unite Gameplay and Story Support Immersive Feedback Loops]] — Trevor Scott Richard (p. 91)
 
 ### Playing with Others
-
 *What do game designers do to make playing with others more satisfying?*
 
 - [[39. Letting your Players be Nice to Each Other can Reduce Toxicity|Letting your Players be Nice to Each Other can Reduce Toxicity]] — Kendal Kotter (p. 95)
@@ -135,7 +123,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[42. Change Player Movement Speed to Encourage Collaboration|Change Player Movement Speed to Encourage Collaboration]] — José P. Zagal (p. 101)
 
 ### Skilled Play
-
 *What do game designers do to help novice and expert players?*
 
 - [[43. Hit Priority in Combat Systems Encourages Deeper and Competitive Play|Hit Priority in Combat Systems Encourages Deeper and Competitive Play]] — Jacob Grahmann (p. 105)
@@ -145,14 +132,11 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - [[47. Let Experienced Players Turn Off Breadcrumbs|Let Experienced Players Turn Off Breadcrumbs]] — Lee Neuschwander (p. 113)
 
 ## Index of Games
-
 ### A
-
 - Alien: Isolation, [[08. AI that Reacts Credibly is Better than Super Smart AI|19–20]]
 - Assassin’s Creed: Origins, [[44. Use Skill Trees to Enrich Your Players’ Skills|107–108]]
 
 ### B
-
 - Bastion, [[23. Let Your Players Customize Their Own Risk-Reward Ratios|55]]
 - Battlefield, [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|78]]
 - Battlefield 4, [[43. Hit Priority in Combat Systems Encourages Deeper and Competitive Play|106]]
@@ -161,7 +145,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Breath of Fire IV, [[29. Being Overpowered Can Help Players Better Understand a Game|69]]
 
 ### C
-
 - Call of Duty, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|42]], [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|78]]
 - Castlevania: Symphony of the Night, [[13. Moving Between a Game’s Areas Should Always be Memorable|33]]
 - Celeste, [[23. Let Your Players Customize Their Own Risk-Reward Ratios|56]], [[25. Careful Repetition of Challenges Allows for Novel but Familiar Player Experiences|61–62]]
@@ -170,7 +153,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Crash Bandicoot, [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|78]]
 
 ### D
-
 - Dark Souls, [[03. Animation “Tells” Can Help Teach Players How To Play|7]], [[09. What Happens When you Die in a Game Influences What Players do Next|23]], [[12. Foster Skilled Play by Encouraging Failure|30]], [[13. Moving Between a Game’s Areas Should Always be Memorable|33]], [[15. Use Shortcuts as Checkpoints to Give Players a Sense of Discovery with Each Death|37]], [[40. For Collaboration, Don’t Let Players Talk to Each Other|97]]
 - Dishonored, [[19. Including More Upgrade Options than Opportunities Leads to More Replayability and Experimentation|48]], [[44. Use Skill Trees to Enrich Your Players’ Skills|108]]
 - Doki Doki Literature Club, [[06. Players Feel Empowered when Actions in One Playthrough Affect the Next|15–16]]
@@ -178,35 +160,29 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Door Kickers, [[33. Fog of War Can Add to the Immersive Experience of a Game|79–80]]
 
 ### F
-
 - Firewatch, [[31. Diegetic UI Helps the Player Care More About the Gameworld and its Characters|75]]
 - For Honor, [[43. Hit Priority in Combat Systems Encourages Deeper and Competitive Play|105]]
 - Fortnite, [[35. It is Often Better to Use One Button for Many Things|86]]
 
 ### G
-
 - Gears of War, [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|78]]
 - Getting Over It, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|41]]
 - God of War, [[14. Guiding Players Indirectly is Better than Telling them Where to Go|36]], [[36. Quick Time Events can be used to Build Tension and-or Empower Players|87]]
 
 ### H
-
 - Halo, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|42]]
 - Heavy Rain, [[05. Permanently Changing a Character’s Appearance is Memorable for Players|13]], [[30. The User Interface Can Help the Player Share in their Character’s Experience|74]]
 - Hellblade: Senua’s Sacrifice, [[31. Diegetic UI Helps the Player Care More About the Gameworld and its Characters|75–76]]
 - Horizon Zero Dawn, [[37. In-Game Collectables Should Have Purpose and Build Upon the Game|89–90]]
 
 ### I
-
 - Infamous 2, [[34. Drawing Attention to Important Information in Multiple Ways Helps Players Understand Faster|81–82]]
 - Into the Breach, [[02. Showing Players an Enemy’s Intent Can Encourage Tactical Understanding|5–6]]
 
 ### J
-
 - Journey, [[14. Guiding Players Indirectly is Better than Telling them Where to Go|35–36]], [[40. For Collaboration, Don’t Let Players Talk to Each Other|97]], [[42. Change Player Movement Speed to Encourage Collaboration|101–102]]
 
 ### L
-
 - Last of Us, The, [[08. AI that Reacts Credibly is Better than Super Smart AI|19]]
 - Legend of Zelda, The (Series), [[01. Tutorials Should Explain the Many Ways Mechanics Can Be Used|3]], [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|77]]
 - • – Breath of the Wild, [[21. Give Players a Toolbox and They’ll Solve Puzzles of their Own Devising|51]]
@@ -218,7 +194,6 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Little Big Planet, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|42]]
 
 ### M
-
 - Magic: The Gathering, [[46. Layer your Design to Achieve Both a Low Skill Floor and a High Skill Ceiling|111]]
 - Metroid, [[13. Moving Between a Game’s Areas Should Always be Memorable|33]], [[35. It is Often Better to Use One Button for Many Things|86]]
 - Metroid Prime, [[29. Being Overpowered Can Help Players Better Understand a Game|69]]
@@ -228,23 +203,19 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Mortal Kombat, [[35. It is Often Better to Use One Button for Many Things|86]]
 
 ### O
-
 - Overwatch, [[10. Use Death Recaps to Teach Your Players How to Improve|25]], [[39. Letting your Players be Nice to Each Other can Reduce Toxicity|95–96]], [[45. Randomized Gun Spray Patterns Help Level the Playing Field for Players|109]]
 
 ### P
-
 - PlayerUnknown’s Battlegrounds, [[10. Use Death Recaps to Teach Your Players How to Improve|25]], [[43. Hit Priority in Combat Systems Encourages Deeper and Competitive Play|105]]
 - Pyre, [[23. Let Your Players Customize Their Own Risk-Reward Ratios|56]]
 
 ### R
-
 - Rayman Legends, [[27. How to Do Drastic Gameplay Changes the Right Way|65]]
 - Resident Evil, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|41–42]]
 - Rise of the Tomb Raider, [[07. Allow Characters to Grow (Narratively and Mechanically) from Game to Game|18]]
 - Rogue Legacy, [[24. Randomized Character Names and Traits Can Lead to More Engaging Experiences|59–60]]
 
 ### S
-
 - SCP – Containment Breach, [[11. Perceptions of a Threat Work Better than the Threat in Creating an Intense Experience|27]]
 - Shadow of the Tomb Raider, [[07. Allow Characters to Grow (Narratively and Mechanically) from Game to Game|18]]
 - Silent Hill, [[17. Movement Mechanics Can Reinforce a Game’s Core Experience|42]]
@@ -262,27 +233,23 @@ We hope you enjoy this book and the amazing games that are out there. More impor
 - Super Smash Bros, [[46. Layer your Design to Achieve Both a Low Skill Floor and a High Skill Ceiling|111–112]]
 
 ### T
-
 - Team Fortress 2, [[22. Unique and Challenging Achievements can Provide Players with Motivation to Re-Visit Old Content|53]]
 - Tom Clancy’s The Division, [[18. Allowing Players to Switch Classes Encourages Exploration of Game Mechanics|45]]
 - Tomb Raider, [[07. Allow Characters to Grow (Narratively and Mechanically) from Game to Game|18]]
 
 ### U
-
 - Uncharted, [[32. Camera Perspectives Show-Obscure Info that Allow for Different Gameplay Challenges|78]]
 - Uncharted: Drake’s Fortune, [[27. How to Do Drastic Gameplay Changes the Right Way|65]]
 - Undertale, [[28. Non-Violent Ways of Resolving Conflicts Makes Games More Interesting for Players|67]]
 - Until Dawn, [[36. Quick Time Events can be used to Build Tension and-or Empower Players|87–88]]
 
 ### W
-
 - Witcher, The (Series), [[07. Allow Characters to Grow (Narratively and Mechanically) from Game to Game|17]]
 - Witcher 3, The, [[26. Repairable Weapon Degradation Encourages Weapon Use and Reduces Hoarding|63]]
 - Witness, The, [[38. Reward Systems that Unite Gameplay and Story Support Immersive Feedback Loops|91]]
 - World of Warcraft, [[22. Unique and Challenging Achievements can Provide Players with Motivation to Re-Visit Old Content|53]], [[26. Repairable Weapon Degradation Encourages Weapon Use and Reduces Hoarding|63]]
 
 ## About the Authors
-
 **Benjamin Barker**
 
 **Benjamin Barker** has a Bachelor degree in English and a Masters in Entertainment Arts and Engineering, both from the University of Utah. He is passionate about interactive storytelling, dogs, and world travel.
@@ -312,7 +279,6 @@ Lee was born in 1996 and was raised in Woods Cross, Utah. He grew up enjoying ga
 **José Zagal** is faculty at the University of Utah’s top-ranked game development program. He wrote “Ludoliteracy” and edited the “Videogame Ethics Reader” and “Role-Playing Game Studies”. He was also honored as a distinguished game scholar by the digital games research association (DiGRA). He also likes games. A lot.
 
 ## About the ETC Press
-
 The ETC Press was founded in 2005 under the direction of Dr. Drew Davidson, the Director of Carnegie Mellon University’s Entertainment Technology Center (ETC), as an open access, digital-first publishing house.
 
 What does all that mean?

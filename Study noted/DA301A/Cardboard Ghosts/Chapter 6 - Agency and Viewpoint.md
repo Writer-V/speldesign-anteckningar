@@ -7,13 +7,11 @@ tags:
   - book/cardboard-ghosts
 ---
 # Chapter 6: Agency and Viewpoint
-
 *From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-6](https://doi.org/10.1201/9781003500834-6). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
 
 [[Chapter 5 - Immersion and Identity|← Chapter 5]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 7 - Alienation and Distance|Chapter 7 →]]
 
 ## A Thing That Happens To You
-
 A key component of the question of player identities and how they are expressed is this: are they acting, or being acted upon? Most games, particularly wargames, prefer player roles in the former camp. It’s the fantasy promised on all those old Avalon Hill boxes: *Now YOU Are In Command*. Such games provide a historically accurate model, if by “accuracy” you mean “events happen the way they did historically”.
 
 But this is not an accurate model of history as it is actually experienced while living through it, of a complex web of mostly unpredictable accidents and intentions only making sense in hindsight, of people trying to survive and thrive in an environment where their control over their circumstances is often limited. Most people living through history do not command armies or shape the destiny of a nation (and those who do often have far less control than we ascribe to them).
@@ -21,7 +19,6 @@ But this is not an accurate model of history as it is actually experienced while
 Over the last decade, a number of games have at least gotten us closer to the circumstances of ordinary lives by positioning the player as people merely *adjacent* to power. We’ve already discussed Simonsson’s *Turncoats*, in which we play not as the noble houses pursuing their monarchal ambitions, but as lesser houses seeking their favor, influence, and power, nudging events through our support and duplicity.
 
 ## Pax Porfiriana and Pax Pamir
-
 Simonsson is an admirer of *Pax Pamir*, the second game in the *Pax* series, an informal family of games in which, broadly speaking, players are interlopers and middlemen navigating times of political crisis. The first of these, *Pax Porfiriana*, was designed by Matt Eklund, Jim Gutt, and Phil Eklund, based on the latter’s *Lords of the Sierra Madre*. Set during the Porfiriato – the three decade dictatorship of Porfirio Díaz – players are wealthy businessmen accumulating four kinds of points: Loyalty, Outrage, Command, and Revolution. Each corresponds to a kind of “Topple” card, and if a player has enough of those points when that specific card is activated, they win the game. ^p54
 
 For example, if the Topple cares about one’s loyalty to the regime, and you have enough Loyalty, the dying Diaz names you as his successor. Of course, ensuring you have enough points of a given type when that card happens to come up *and* is eligible to be activated can be tricky, especially as you have no idea which Topple is coming up next. Players must constantly shift their positions, responding to the opportunities presented by the game’s large and chaotic card market.[^1]
@@ -45,7 +42,6 @@ And in a nutshell, isn’t that what living through history – living through *
 It is interesting to compare the second edition of *Pax Pamir* to *The Great Game: Rival Empires in Central Asia 1837–1886*, a board game designed by John Gorkowski[^2] released around the same time. This game places its two players squarely in the roles of Britain and Russia, moving their pieces across what the game’s ad copy calls “a chessboard of Central Asia.” This embodies the grotesque way those empires saw the region and their inhabitants. We are asked to inhabit the viewpoint and prejudices of these superpowers, to do the sorts of things superpowers do to other countries, and to regard our actions with the same horrific detachment. That’s not necessarily a bad approach, nor is it “less moral” than *Pax Pamir* (though I do think *Pamir* is a more interesting and noteworthy game). ^p56
 
 ## Viewpoint and Horror in Meltwater
-
 *The Great Game* is rather like *Twilight Struggle*, which likewise sees two superpowers treating everywhere else as chess squares and everyone else as pawns, and likewise trusts us to recognize the innate horror of this dehumanizing worldview. As *Twilight Struggle* designers Jason Matthews and Ananda Gupta explains, their game
 
 > basically accepts all of the internal logic of the Cold War as true – even those parts of it that are demonstrably false. Therefore, the only relationships that matter in this game are those between a nation and the superpowers. The world provides a convenient chess board for US and Soviet ambitions, but all other nations are mere pawns … Furthermore, not only does the domino theory work, it is a prerequisite for extending influence into a region. Historians would rightly dispute all of these assumptions[.][^3]
@@ -67,7 +63,6 @@ Most matches will end in the manner described, the victor themselves just a turn
 This repulsion is key to Escobedo’s approach, a concept we’ll explore more fully in our next chapter. It’s immersion not as an act of empathy, but of horror. This is compounded by an air of inevitability. The game’s chess-like determinism creates dread on a mechanical level; often we can see the shape of the game in its earliest turns, and can predict its conclusion and victor well ahead of the final act. Those last turns are not thrilling, but resigned and disquieted. This allows us to recognize the insane immorality of the systems the game asks us to participate in.
 
 ## Ordinary Complicity and Fancy Hats
-
 What it doesn’t get at, what it can’t really get at, is *why* people participate in those real-life systems in the first place. This is not a flaw in the game, but a matter of emphasis. In order to create its horror, the game is hyper-focused on how *wrong* this is. The game is shouting through furious tears: *Why can’t you see this?* It’s a call to action and to awareness. It cannot extend its sympathies to the rational people weighing the worth of human lives; that’s not the purpose of it.
 
 Cole Wehrle’s *John Company* is a horror story told at the individual level. Like *Pax Pamir*, this was initially published through Phil Eklund’s company Sierra Madre Games before being published by Wehrle in a substantially different second edition. That edition lays out its thesis directly on the first page of the rulebook. Players “assume the roles of ambitious families attempting to use the British East India Company for personal gain.” He notes the “game isn’t about wealth; it’s about reputation” – securing luxurious estates, favorable marriages, and social connections.[^8] All these things earn victory points, which determine the game’s winner.
@@ -107,7 +102,6 @@ And maybe I wasn’t aiming for a fancy hat – my passion for millinery didn’
 We all live in a system which demands money in order to survive and to thrive, and which creates barriers to make those things both difficult and compulsory. Most people must work for someone else, a system which is inherently exploitive and coercive; most work which an employer will pay us for causes some degree of harm. Even those of us who work for ourselves are not free of this. I make board games for a living, and I struggle with the ethicalness of making physical paper-based products on a planet in ecological crisis.
 
 ## Complicity in John Company
-
 Wehrle frames *John Company* as “a game about the ordinary actors of empire and how often well-meaning and decent people can do some truly evil things to advance their own prospects.”[^10] Both Escobedo in *Meltwater* and Wehrle in *John Company* examine complicity through the framing of their victory conditions.
 
 Their approaches and aims are quite different. Wehrle once said of historical games that the “proper POV for players and their victory conditions should be in alignment and free from the judgment of the present.”[^11] Escobedo is absolutely judging the entire rotten system and the people who prop it up, telling active participants in oppression to not play *Meltwater*: “Please grab your copy, take it outside to your backyard or balcony or whatever, and burn it. I can’t reach you. I really don’t want you playing my game about state violence with a fucking erection.”[^12] Wehrle’s game is an act of empathy and understanding, Escobedo’s of rage and anguish: both are compelling works of art precisely because of the ways their victory conditions and design decisions work together to express their distinct purposes.
@@ -123,7 +117,6 @@ Again like *Pax Pamir*, players must find ways *around* a system built to limit 
 Both games, then, depend on dissonance and tension between immersion and horror. In the case of *John Company*, it’s the tension between the players’ genteel ambitions and the brutal subjugation of India they participate in to achieve them. For *Meltwater*, it’s the tension between the game’s annihilationist goal and our recognition of its inherent insanity. This is something to keep in mind during our next chapter, in which we’ll examine the approach of alienation. At first blush, alienating one’s audience seems to be the opposite of immersing them, and for ease of explanation, I will often frame it this way. In actuality, all games examining real-life systems are both immersive and alienating, and it is this tension which creates a game’s particular resonances. ^p64
 
 ## Ethical Considerations of Immersion
-
 Both of the games just discussed cast players in roles which are complicit in wrongdoing, and incentivize immoral and repugnant actions. As mentioned previously, this complicity is necessary to systemic critique; while it’s possible (and valuable!) to position players in identities in opposition to systems of oppression, in order to *understand* a system on a systemic level, someone will need to be pulling the levers. Both *Meltwater* and *John Company* likewise ask disquieting questions *about* personal complicity.
 
 There are obvious pitfalls to this approach, however, and ethical considerations about which identities a game chooses to center. In 2019, GMT Games announced *Scramble for Africa*, which took as its subject the colonization, exploitation, and genocides perpetrated by Europeans in Africa during the nineteenth century. Players would take on the roles of these European powers. The game’s victory conditions were in alignment with those powers and their attitudes.
@@ -141,7 +134,6 @@ I don’t have an answer for this. I’m not sure if anyone does. Art is a compl
 It can’t be neatly sorted into boxes labeled “moral” and “immoral”, “responsible” and “irresponsible” – often it is all these things at the same time – but neither can we use that to just throw up our hands or equivocate. I know I’ve no interest in playing *Scramble for Africa* should it ever see the light of day. I know I think *John Company* is a vitally important work of board game art which asks interesting questions about personal complicity within larger systems. But I also know I’m a white American operating from what Wehrle once called “the privilege of distance”; I would imagine others might have a much more complicated relationship with the game, if they have any interest in playing it at all.
 
 ## Bibliography
-
 - Eklund, Matt, et al. (2012). *Pax Porfiriana* (board game). Sierra Madre Games.
 - Escobedo, Erin (2018). *Meltwater: A Game of Tactical Starvation* (board game). Hollandspiele.
 - Gorkowski, John (2018). *The Great Game: Rival Empires in Central Asia 1837-1886* (board game). Legion Wargames.

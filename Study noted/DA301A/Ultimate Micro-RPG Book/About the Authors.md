@@ -4,7 +4,6 @@ tags:
   - book/ultimate-micro-rpg
 ---
 # ABOUT THE AUTHORS
-
 **James D’Amato** is the author of *The Ultimate RPG Character Backstory Guide* and *The Ultimate RPG Gameplay Guide*, as well as the creator and game master of *One Shot* podcast and *Campaign: Skyjacks* podcast dedicated to RPG gameplay. He trained at Second City and iO in Chicago in the art of improvisational comedy; he now uses that education to introduce new people to role-playing and incorporates improvisational storytelling techniques to create compelling and entertaining stories for RPG campaigns and one-shot adventures.
 
 A game designer, writer, artist, and sneaker enthusiast born and raised in New Orleans and currently living in Durham, NC, **Omari Akil** has designed and published games independently since 2018 and seeks to continue pushing the limits of whom tabletop games can reach and the type of content they bring to the forefront. His premier board game, *Rap Godz*, connected hip-hop culture to board games in a way that has never been done before. He continues to explore game designs and themes that are linked to African diaspora and Afrofuturism in his quest to become a full-time gaming professional.

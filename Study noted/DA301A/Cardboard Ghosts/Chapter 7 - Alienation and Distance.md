@@ -7,13 +7,11 @@ tags:
   - book/cardboard-ghosts
 ---
 # Chapter 7: Alienation and Distance
-
 *From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-7](https://doi.org/10.1201/9781003500834-7). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
 
 [[Chapter 6 - Agency and Viewpoint|← Chapter 6]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 8 - This Guilty Land|Chapter 8 →]]
 
 ## Limits of Immersion
-
 Immersion and identification bring players into a game, just as they bring an audience into other works of art. These techniques thrive on immediacy and verisimilitude. It is not uncommon to describe engaging with a film or book in terms of being “absorbed” or “lost” in it, which leads to a suspension of disbelief and grants us access to heightened emotional and aesthetic experiences.
 
 When the immersion is broken – when we are reminded of a story’s constructed and artificial nature – it risks breaking that connection, taking us “out” of the work. In film, continuity editing is the dominant form precisely because it appears frictionless: establishing shots giving us a sense of time and place, medium-shots to bring us into the action, close-ups to subtly highlight things of importance, all stitched together seamlessly through match cuts and with respect to eyelines.
@@ -23,7 +21,6 @@ In every form, the most broadly popular works are immersive, because broadly pop
 For example, George Lucas’s visionary science fiction film *THX-1138* depicts a joyless consumerist dystopia in featureless corridors and expressionless faces. It was, unsurprisingly, a massive flop. Marcia Lucas, at that time his wife, told Lucas it failed because it didn’t involve the audience emotionally. “Emotionally involving the audience is easy,” Lucas is reported to have snapped back. “Anyone can do it blindfolded, get a little kitten and have some guy wring its neck.”[^1] Lucas’s subsequent films have all been emotionally immersive crowd-pleasers; he’s been strangling kittens ever since.[^2] ^p69
 
 ## Too Close to the Gears
-
 As discussed in the first chapter, humans are built for stories, and this is what makes it difficult for us to recognize and understand systems. Because of their systemic nature, and the systemic understanding required to engage with them, board games are uniquely suited to helping us understand systems, but immersion as a technique is uniquely suited to *prevent* that understanding.
 
 Rather than let us see the shape of the structure, it invites us to walk inside it. Rather than let us question and critique the system, it asks us to imagine ourselves within it. This can still be useful, of course. Because immersion connects with us emotionally, it creates empathy for others; because identification gives us an imaginative space to inhabit, it allows us to ask questions of ourselves. But it doesn’t let us see how a system *works*. We’re too enmeshed within the gears to see how and why they turn.
@@ -43,7 +40,6 @@ As I started to think seriously about using games as a tool to make arguments ab
 There were two artists – one a playwright, the other a filmmaker – whose works informed my thinking and inspired my own. I’ll now be discussing both, and their ideas, in some detail before examining my own anti-immersive game, *This Guilty Land*.
 
 ## The Verfremdungseffekt
-
 Bertolt Brecht (1898–1956) was one of the most influential, experimental, and prolific German playwrights of the Weimar era. From a young age he was deeply distrustful of authority and patriotism; as a teen, he was nearly expelled for an essay which argued, during the thick of the First World War, that it was foolish to die for one’s country. A socialist and Marxist, Brecht’s plays were openly political and didactic, arguing against capitalism, war, and fascism (he would flee Germany in 1933, and in exile wrote plays openly critical of the Nazi regime). ^p71
 
 To make these arguments, he wrote, staged, and directed his productions
@@ -57,7 +53,6 @@ Brecht’s scenes are frequently interrupted by songs.[^7] His intent is to
 > set the music apart from the reality of the action… in order to give the right impression, that these were musical insertions, rather than to lead people to think quite mistakenly that the songs ‘sprang from the action.’ Those who object to this are quite simply opposed to anything intermittent, inorganic, pieced-together – this chiefly because they object to any shattering of illusion.[^8]
 
 ## The V-Effect in Mother Courage
-
 To illustrate this repeated shattering of illusion, its purpose, and its limitations, let’s take a close look at Brecht’s masterpiece, *Mother Courage and Her Children*. Set during the Thirty Years War, it concerns “Mother Courage”, who follows armies on the march, selling them supplies from her wagon. Courage is a cynical, selfish figure who sees war not as a tragedy but as opportunity. When there are rumors the war will soon be ended, she becomes despondent, praying fiercely that the war will be prolonged. She is initially accompanied by her three children: ambitious Eilif, honest Swiss Cheese, and her mute daughter Kattrin.
 
 Eilif most resembles his mother: a cynical, clever, and ruthless individual looking to war as an opportunity to thrive. He joins the army and is lauded as a hero when he murders peasants to steal their cattle, feeding his regiment. When he does the same during a temporary truce, he is arrested. Before his execution, he is asked how he could do such a thing, answering coolly: “It’s what I’ve been doing all along.” Told it was stupid, he retorts, “If I’d been stupid, I’d have starved.” Asked what they should tell his mother, he shrugs: “Tell her it wasn’t any different, tell her it was the same. Or don’t tell her anything.”[^9] They never do; at the end of the play, Mother Courage is certain her eldest son is still alive. ^p72
@@ -73,7 +68,6 @@ To further alienate the audience from this unsympathetic protagonist, each scene
 Deprived of this, the audience could *think* about the play rather than *feel* it, reflecting on Brecht’s argument that war is business by other means, and that war, like business, *like capitalism*, warps human beings.
 
 ## Media Literacy
-
 At least, that was the intent. To the playwright’s consternation, audiences and critics alike saw Mother Courage as a “helpless victim of the war” due to what he described as a
 
 > deeply engrained (sic) habit [which] leads the theater-goer to pick out the more emotional utterances of the characters and overlook everything else. Like descriptions of landscapes in novels, references to business are received with boredom… And so, regardless of all our efforts to represent the war as an aggregate of business deals, the discussions showed time and again that people regarded it as a timeless abstraction.[^15]
@@ -97,7 +91,6 @@ A handful of viewpoint characters aligns our sympathies. A three-act structure p
 Board games, however, are not necessarily a narrative form, and many of the expected pleasures of narrative are conspicuously absent. It is naturally more didactic and more obvious than most art forms. When we want to use the form to tell a story, we have to work harder to make an emotional connection because the audience primarily engages with games in a cerebral, mathematical manner. But if we view this as an asset and lean into it, purposefully preventing immersion and identification through the Verfremdungseffekt, we can create a space in which players can think about a game’s argument.
 
 ## Nonhierarchical Art and the Monoform
-
 This is especially true because turn-based games naturally allows us to create space and time for reflection. Most forms depend on what the filmmaker Peter Watkins calls a hierarchical relationship between the media and its audience, in which the latter passively accepts what it is shown, without being given space and time to think.
 
 But board games are aggressively nonhierarchical. Unlike an audience for a film or play, players dictate the pace of the proceedings, pausing frequently while we wait for Marvin to finally finish with his turn – or, worse, waiting for Marvin to spend five minutes staring off into the middle distance before asking whose turn it is. Because of its interactive nature, we also decide where to look and when, which elements of a system to manipulate and how, and which aspects of an argument to engage with.
@@ -123,7 +116,6 @@ These forms are, inherently, hierarchical. The same, however, is not true of gam
 I said as much to Watkins in a rather silly and impertinent email I sent him about fifteen years ago. Pointing out that many of the things he was working toward in film – often working against natural tendencies of the medium – were core features of video games, I asked if he had ever considered making a video game. Watkins’s response was polite and generous (more-so than I deserved), but came down to “I am seventy-three years old and unlikely to learn a new art form.”[^19]
 
 ## Alienation in Board Games
-
 Both Brecht and Watkins worked actively and aggressively against established norms to deemphasize emotional connection and manipulation in favor of engaging their audience intellectually and making a critique of systems, cultural norms, and authority. Watkins achieved this by presenting his films as documentaries, “as though they are ‘happening’ and by building into this illusion a number of challenging elements, including ambiguities, which expose the constructed nature and fictional aspect of the films.”[^20]
 
 Once I became convinced board games could be useful to making systemic critiques, I likewise became convinced they would need to include challenging elements and run counter to established norms. However, those norms are slightly different than in film or theater. Those are explicitly narrative forms, but board games are not. Narrative forms depend on a suspension of disbelief – that these are real people and real events we are somehow observing – but the inherently abstracted nature of board games already prevents the easy verisimilitude that Brecht and Watkins are resisting. ^p78
@@ -145,7 +137,6 @@ We need to explore a broader emotional range: deliberately irritating our player
 By running counter to these expectations, we push players away. Rather than being immersed in the game or engaged with it, they are forced to consider it from the outside. To ask, why is it like this? And to find that answer, they must think about the game systemically, and concurrently, think about what that system is modeling. In this way, we center observation of the model as the game’s primary source of meaning, and give the players space to think about systems. In order to achieve this, we often must work against the immersion techniques we discussed in our previous chapter.
 
 ## Bibliography
-
 - Biskind, Peter (1998). *Easy Riders, Raging Bulls: How the Sex-Drugs-and-Rock ‘N Roll Generation Saved Hollywood*. Simon & Schuster.
 - Brecht, Bertolt (1936). “Alienation Effects in Chinese Acting”. Translated by Willett, John. *Brecht on Theatre: Development of an Aesthetic*. 1978 edition. Radha Krishna Prakashan.
 - Brecht, Bertolt (1939). Mother Courage and Her Children (play). Translated by Manheim, Ralph. *Bertolt Brecht: Collected Plays* Volume 5. 1972 edition. Vintage Books.

@@ -5,13 +5,11 @@ tags:
   - book/cardboard-ghosts
 ---
 # Cardboard Ghosts — Index
-
 *Index of [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts]]. Page numbers refer to the print edition; each number links to the paragraph in the chapter note where that page begins (entries for note pages link to the chapter).*
 
 Pages followed by “n” refer to notes.
 
 ## A
-
 - ability, [[Chapter 3 - The Paper Time Machine#^p26|26]], [[Chapter 5 - Immersion and Identity|41]], [[Chapter 5 - Immersion and Identity#^p44|44]], [[Chapter 6 - Agency and Viewpoint#^p55|55]], [[Chapter 6 - Agency and Viewpoint#^p59|59]], [[Chapter 7 - Alienation and Distance#^p77|77]], [[Chapter 7 - Alienation and Distance|81]], [[Chapter 8 - This Guilty Land#^p92|92]], [[Chapter 9 - Challenges and Hopes|94]], [[Chapter 9 - Challenges and Hopes#^p99|99]], [[Chapter 9 - Challenges and Hopes#^p103|103]]
 - *Ace Ventura*, [[Chapter 1 - Stories and Systems#^p3|3]]
 - Ackerman, Chantal, [[Chapter 9 - Challenges and Hopes#^p103|103]]
@@ -46,7 +44,6 @@ Pages followed by “n” refer to notes.
 - Avalon Hill Game Company, [[Chapter 3 - The Paper Time Machine#^p23|23]]
 
 ## B
-
 - *Barry Lyndon*, [[Chapter 5 - Immersion and Identity#^p47|47]]
 - “Benedict Arnold’s Treason Undermines the Patriot Cause”, [[Chapter 5 - Immersion and Identity#^p49|49–51]]
 - Berg, Richard, [[Chapter 4 - Wargaming as Technique#^p31|31]]
@@ -77,7 +74,6 @@ Pages followed by “n” refer to notes.
 - Bush, George W., [[Chapter 9 - Challenges and Hopes#^p104|104]]
 
 ## C
-
 - *Campaign for North Africa*, [[Chapter 2 - Mechanical Metaphors#^p12|12]], [18n4](ch2.xhtml#en2_4)
 - Canada, [[Chapter 2 - Mechanical Metaphors#^p8|8–9]]
 - capitalism, [[Chapter 1 - Stories and Systems#^p4|4]], [[Chapter 2 - Mechanical Metaphors#^p17|17]], [[Chapter 7 - Alienation and Distance#^p71|71]], [[Chapter 7 - Alienation and Distance#^p73|73]], [[Chapter 9 - Challenges and Hopes#^p101|101]]
@@ -123,7 +119,6 @@ Pages followed by “n” refer to notes.
 - cultural perception, [[Chapter 9 - Challenges and Hopes#^p95|95]]
 
 ## D
-
 - *Dahmer*, 2002 film, [[Chapter 6 - Agency and Viewpoint#^p65|65]]
 - Dahmer, Jeffrey, [[Chapter 6 - Agency and Viewpoint#^p65|65]]
 - Darrow, Charles, [[Chapter 2 - Mechanical Metaphors#^p16|16]]
@@ -140,7 +135,6 @@ Pages followed by “n” refer to notes.
 - Dunnigan, James, [[Chapter 3 - The Paper Time Machine#^p24|24–26]], [[Chapter 4 - Wargaming as Technique#^p31|31]], [[Chapter 9 - Challenges and Hopes#^p97|97]]
 
 ## E
-
 - Ekert, Uwe, [[Chapter 9 - Challenges and Hopes#^p97|97]]
 - Eklund, Matt, [[Chapter 6 - Agency and Viewpoint#^p54|54]]
 - Eklund, Phil, [[Chapter 6 - Agency and Viewpoint#^p54|54]], [[Chapter 6 - Agency and Viewpoint#^p58|58]]
@@ -148,7 +142,6 @@ Pages followed by “n” refer to notes.
 - Eyrie Dynasty (Root), [[Chapter 4 - Wargaming as Technique#^p35|35]]
 
 ## F
-
 - fighting games, [[Chapter 2 - Mechanical Metaphors#^p13|13–14]], [19n6](ch2.xhtml#en2_6), [[Chapter 5 - Immersion and Identity#^p43|43–44]]
 - *Fire in the Lake*, [[Chapter 4 - Wargaming as Technique#^p34|34]]
 - First World War, [[Chapter 7 - Alienation and Distance#^p71|71]]
@@ -162,7 +155,6 @@ Pages followed by “n” refer to notes.
 - French Revolution, [[Chapter 1 - Stories and Systems#^p3|3]]
 
 ## G
-
 - game(s), [[Chapter 1 - Stories and Systems|1]], [[Chapter 8 - This Guilty Land|82]], [[Chapter 9 - Challenges and Hopes#^p95|95]]
     - as arguments, [[Chapter 4 - Wargaming as Technique|30–32]]
     - art form, [[Chapter 1 - Stories and Systems#^p5|5]], [[Chapter 3 - The Paper Time Machine|20]]
@@ -210,7 +202,6 @@ Pages followed by “n” refer to notes.
 - Gutt, Jim, [[Chapter 6 - Agency and Viewpoint#^p54|54]]
 
 ## H
-
 - *Hannibal: Rome Versus Carthage*, [[Chapter 3 - The Paper Time Machine#^p27|27]]
 - Hapsburg monarchy, [[Chapter 7 - Alienation and Distance#^p74|74]]
 - Harper’s Ferry, [[Chapter 8 - This Guilty Land#^p87|87]]
@@ -220,7 +211,6 @@ Pages followed by “n” refer to notes.
 - human invention, [[Chapter 5 - Immersion and Identity#^p47|47]]
 
 ## I
-
 - identities, [[Chapter 5 - Immersion and Identity|41]], [[Chapter 5 - Immersion and Identity#^p44|44]], [[Chapter 6 - Agency and Viewpoint#^p55|55]]
 - immersion and identification, [[Chapter 7 - Alienation and Distance|68]], [[Chapter 7 - Alienation and Distance#^p70|70]]
 - *An Infamous Traffic*, [[Chapter 6 - Agency and Viewpoint#^p58|58–59]], [[Chapter 6 - Agency and Viewpoint#^p62|62]]
@@ -229,14 +219,12 @@ Pages followed by “n” refer to notes.
 - *Irish Gauge*, [[Chapter 8 - This Guilty Land|82]]
 
 ## J
-
 - jaguar-masked wrestler, *see* King (Tekken)
 - *John Company*, horror story, [[Chapter 6 - Agency and Viewpoint#^p58|58]], [[Chapter 6 - Agency and Viewpoint#^p62|62–65]]
 - Julius Caesar, [[Chapter 9 - Challenges and Hopes#^p96|96]]
 - Justice and Oppression, [[Chapter 8 - This Guilty Land#^p83|83–85]], [[Chapter 8 - This Guilty Land#^p88|88–89]]
 
 ## K
-
 - Kinetic wargames, [[Chapter 4 - Wargaming as Technique#^p33|33]]
 - King (Tekken), [[Chapter 2 - Mechanical Metaphors#^p13|13]], [[Chapter 5 - Immersion and Identity#^p43|43–44]]
 - Knizia, Reiner, [[Chapter 2 - Mechanical Metaphors|7]]
@@ -245,7 +233,6 @@ Pages followed by “n” refer to notes.
 - Kubrick, Stanley, [[Chapter 4 - Wargaming as Technique#^p32|32]], [[Chapter 5 - Immersion and Identity#^p47|47]]
 
 ## L
-
 - *The Landlord’s Game*, [[Chapter 2 - Mechanical Metaphors#^p16|16]]
 - Lei Wulong (Tekken), [[Chapter 5 - Immersion and Identity#^p44|44]]
 - The Lincoln-Douglas Debates, [[Chapter 8 - This Guilty Land#^p87|87]]
@@ -256,7 +243,6 @@ Pages followed by “n” refer to notes.
 - loyalty(ies), [[Chapter 2 - Mechanical Metaphors#^p10|10–11]], [[Chapter 5 - Immersion and Identity#^p48|48]], [[Chapter 6 - Agency and Viewpoint#^p54|54–55]]
 
 ## M
-
 - Magie, Lizzie, [[Chapter 2 - Mechanical Metaphors#^p16|16]]
 - Marie Antoinette, [[Chapter 1 - Stories and Systems#^p3|3]]
 - Marion, Francis, [[Chapter 5 - Immersion and Identity#^p48|48]]
@@ -288,7 +274,6 @@ Pages followed by “n” refer to notes.
 - multiplayer asymmetric games, [[Chapter 3 - The Paper Time Machine#^p27|27]], [[Chapter 4 - Wargaming as Technique#^p34|34]]
 
 ## N
-
 - Napoleon, [[Chapter 4 - Wargaming as Technique#^p32|32]]
 - Narrative of the Life of Frederick Douglass, [[Chapter 8 - This Guilty Land#^p87|87]]
 - nationalism, [[Chapter 6 - Agency and Viewpoint#^p57|57–58]]
@@ -300,7 +285,6 @@ Pages followed by “n” refer to notes.
 - “Now YOU Are In Command”, [[Chapter 6 - Agency and Viewpoint|53]]
 
 ## O
-
 - Ollman, Bertell, [[Chapter 2 - Mechanical Metaphors#^p17|17]]
 - *On First Looking Into Chapman’s Homer*, [[Chapter 1 - Stories and Systems|1]]
 - Oppobot (*Votes for Women*), [[Chapter 9 - Challenges and Hopes#^p98|98]]
@@ -310,7 +294,6 @@ Pages followed by “n” refer to notes.
 - *Origins of World War II*, [[Chapter 4 - Wargaming as Technique#^p32|32]]
 
 ## P
-
 - Panda (Tekken), [[Chapter 2 - Mechanical Metaphors#^p14|14]]
 - *Panzergruppe Guderian*, [[Chapter 4 - Wargaming as Technique#^p31|31–32]]
 - Parker Brothers, [[Chapter 2 - Mechanical Metaphors#^p16|16]]
@@ -347,11 +330,9 @@ Pages followed by “n” refer to notes.
 - puzzles, [[Chapter 7 - Alienation and Distance#^p78|78–79]]
 
 ## Q
-
 - queer and trans voices, [[Chapter 1 - Stories and Systems#^p3|3]]
 
 ## R
-
 - RAND, [[Chapter 4 - Wargaming as Technique#^p33|33]]
 - Renner, Jeremy, [[Chapter 6 - Agency and Viewpoint#^p65|65]]
 - Roberts, Charles S., [[Chapter 3 - The Paper Time Machine#^p23|23]], [[Chapter 4 - Wargaming as Technique#^p33|33]]
@@ -362,7 +343,6 @@ Pages followed by “n” refer to notes.
 - Ryu (Street Fighter), [[Chapter 2 - Mechanical Metaphors#^p13|13]]
 
 ## S
-
 - *Scholars of the South Tigris*, [[Chapter 3 - The Paper Time Machine#^p25|25]]
 - *Scramble for Africa*, [[Chapter 6 - Agency and Viewpoint#^p64|64–65]], [66n14](ch6.xhtml#en6_14), [[Chapter 9 - Challenges and Hopes#^p95|95]]
 - *The Settlers of Catan*, [[Chapter 5 - Immersion and Identity#^p43|43]]
@@ -389,7 +369,6 @@ Pages followed by “n” refer to notes.
     - world, [[Chapter 1 - Stories and Systems#^p4|4]]
 
 ## T
-
 - *Tactics* (1954), [[Chapter 3 - The Paper Time Machine#^p23|23]]
 - *Tactics II* (1958), [[Chapter 3 - The Paper Time Machine#^p23|23–24]]
 - *Teenage Mutant Ninja Turtles* (video game), [[Chapter 5 - Immersion and Identity#^p42|42]]
@@ -415,13 +394,11 @@ Pages followed by “n” refer to notes.
 - *Twilight Struggle*, [[Chapter 2 - Mechanical Metaphors#^p8|8]], [[Chapter 3 - The Paper Time Machine#^p27|27]], [[Chapter 6 - Agency and Viewpoint#^p56|56]], [[Chapter 8 - This Guilty Land#^p86|86]]
 
 ## U
-
 - United States, [[Chapter 3 - The Paper Time Machine#^p22|22]], [[Chapter 4 - Wargaming as Technique#^p32|32]], [[Chapter 4 - Wargaming as Technique#^p36|36]], [[Chapter 6 - Agency and Viewpoint#^p57|57]], [[Chapter 8 - This Guilty Land|82–83]], [[Chapter 8 - This Guilty Land#^p90|90]]
 - unpromising conclusions, [[Chapter 3 - The Paper Time Machine#^p23|23]]
 - *Up Against the Wall, Motherfucker!*, [[Chapter 3 - The Paper Time Machine#^p24|24]]
 
 ## V
-
 - V-effect in *Mother Courage*, [[Chapter 7 - Alienation and Distance#^p71|71–73]]
 - verfremdungseffekt, [[Chapter 7 - Alienation and Distance#^p70|70–71]], [[Chapter 7 - Alienation and Distance#^p75|75]], [[Chapter 7 - Alienation and Distance#^p79|79]], [[Chapter 8 - This Guilty Land#^p89|89]], [[Chapter 8 - This Guilty Land#^p91|91]]
 - victory, [[Chapter 7 - Alienation and Distance#^p78|78]], [[Chapter 9 - Challenges and Hopes#^p102|102]]
@@ -436,7 +413,6 @@ Pages followed by “n” refer to notes.
 - *The Vote: Suffrage and Suppression in America*, [[Chapter 8 - This Guilty Land#^p89|89]], [[Chapter 9 - Challenges and Hopes#^p101|101]]
 
 ## W
-
 - wargames/wargaming, [[Chapter 3 - The Paper Time Machine|20–22]], [[Chapter 3 - The Paper Time Machine#^p26|26]]
     - Avalon Hill, board wargames, *see* Avalon Hill, commercial board wargames
     - *Chainmail*, miniatures, [[Chapter 3 - The Paper Time Machine#^p26|26]]

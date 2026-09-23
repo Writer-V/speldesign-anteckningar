@@ -1,6 +1,5 @@
 #Period1-class 
 # Terminology
-
 ## Basics
 * Visual Studio Code
 * Source Code

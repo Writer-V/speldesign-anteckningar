@@ -7,13 +7,11 @@ tags:
   - book/cardboard-ghosts
 ---
 # Chapter 3: The Paper Time Machine
-
 *From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-3](https://doi.org/10.1201/9781003500834-3). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
 
 [[Chapter 2 - Mechanical Metaphors|← Chapter 2]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]] · [[Chapter 4 - Wargaming as Technique|Chapter 4 →]]
 
 ## History of Professional Wargaming
-
 Games are an art form, but also a kind of technology – a scientific tool with practical applications. And like most technologies throughout most of human history, its advancement was driven by war.
 
 The modern tradition of simulation games, or games-as-models, is inextricably intertwined with the wargame – a word that really refers to at least three distinct types of games. These three overlap and sometimes cross pollinate, but can be quite different in their purposes, traditions, and lexicons. My major focus here will be the commercial board wargame. We will also need to dip our toes in professional wargaming – a training and predictive tool used by the military and policy analysts. I will not however be discussing miniatures wargaming – itself divided in a historically-based hobby and a fantastical one, with those two halves united by the desperate hope you will one day finish painting all your little plastic dolls and get to actually play with them.
@@ -43,7 +41,6 @@ Conversely, sometimes this human element also manifested itself when superiors r
 You’ll note that these Pentagon games were concerned with strategic-level conflicts rather than the tactical minutia of battle, intended to shape and inform broader policy decisions. Today, professional wargaming as a technique is used to model business strategies, diplomatic maneuvers, responses to pandemics, and preparations for disaster relief. It can be tremendously important, useful work, when done well. As Peter P. Perla[^5] and ED McGrady note “When it works, wargaming can appear almost magical in its power to inform and instruct; when it doesn’t work, it can appear almost childish in its oversimplifications and abstractions.”[^6] They can be subject to the pitfalls of any predictive model, including blinkered presumptions, unexpected events, and personal biases. A major difference between the professional wargame and its commercial cousin, both of which broadly attempt to use games in a serious, simulationist way, is that professional wargames tend to concern themselves with the future, while commercial board wargames tend to concern themselves with the past.
 
 ## Avalon Hill and the Birth of Commercial Wargaming
-
 The first three commercial board wargames were *Tactics* (1954), *Tactics II* (1958), and *Gettysburg* (1958), all designed and published by Charles S. Roberts. In 1948, the eighteen year old Roberts had joined the army, eager to be a career soldier. Shortly before being discharged in 1952,[^7] he designed the first *Tactics* to “learn the nuances of the Principles of War in a context that was less noisy.”[^8] It was a very simple game, played on a square grid, with two identical, generic post-WW2 armies. Roberts sold about two thousand copies shipped out of his garage, “and the effort either netted or lost thirty dollars.”[^9]
 
 Deciding to make a more serious go of it, Roberts founded the Avalon Hill Game Company in 1958 with a slate of three games – the aforementioned *Tactics II* and *Gettysburg*, as well as a railroad game, *Dispatcher*. The revised *Tactics* introduced a Combat Results Table (CRT), a method for modeling how disparities in numerical strength or martial skill impact the results of a battle.
@@ -53,7 +50,6 @@ Each unit involved in a combat is assigned a Combat Factor. Each side sums the C
 The Combat Results Table would be carried forward to Roberts’s *Gettysburg*, and to subsequent board wargames published by Avalon Hill such as *D-Day* and *Waterloo*. In fact, it was the same exact CRT used in all of these games, with the same set of results assigned to the same columns. You might be wondering, “Aren’t there fundamental differences in the way battles and wars were fought in 1815, 1863, 1944, and 1958?” And, yes, yes there are! Many early wargames fail to be compelling or useful models because of this genericized approach. The first land-based[^10] Avalon Hill wargame to use a bespoke CRT was Jim Dunnigan’s *1914* (1968), which was appropriately attritional.
 
 ## Jim Dunnigan and the Paper Time Machine
-
 Dunnigan is a central figure in the development of board wargames. In 1969, he founded SPI – Simulations Publications, Inc. – Avalon Hill’s first competitor. (Though “competitor” is perhaps overstating it; Dunnigan and his designers continued to design games for Avalon Hill, and signed over republication rights to popular SPI titles.) Avalon Hill published an average of one new wargame a year, and those games were on popular, reliable topics. SPI’s first year, they published ten.
 
 Some of these were on expected subjects such Bastogne and Anzio. But also included in that first batch was *Up Against the Wall, Motherfucker!*, a treatment of the previous year’s protests at Columbia University. Originally published in the student newspaper The Columbia Daily Spectator – the twenty-five year old Dunnigan was attending at the time – SPI sold photocopies of it as it was getting off the ground.
@@ -63,7 +59,6 @@ SPI titles were not as polished or as well-developed as Avalon Hill’s, but the
 SPI’s approach to game design was also data-driven. For example, topic-specific Combat Results Tables were created based on analysis of casualties returns. Frontage and historical march rates determined the scale of a game and the rate at which units moved. Dubbing them a “paper time-machine”, Dunnigan described wargames as *conflict simulations*, attempting “to produce a playable but essentially mathematical model” of war, noting that “Wargames usually contain several (or many) models linked together in a system.”[^13]
 
 ## Mechanical Complexity in Wargames
-
 This is true to a degree of all games: they are collections of models and mechanical metaphors linked together. In a modern hobbyist board game such as *Scholars of the South Tigris*, these features are brought together first and foremost to create a ludic experience. The game might be about the House of Wisdom translating, preserving, and building upon the works of antiquity, and its model simulates the relationships between different language families, but that is not a focus. Whereas in this wargaming tradition, the model is the *point* of the thing.
 
 The name Simulations Publications, Inc. was chosen to signal this. Per Dunnigan,
@@ -85,7 +80,6 @@ This studio was made up of former SPI staffers and published extremely complex g
 The nineties also saw the rise of comparatively simpler games with innovative mechanisms, such as the card-driven system created by Mark Herman for *We the People*, resulting in popular crossover hits like *Hannibal: Rome Versus Carthage* and sales juggernaut *Twilight Struggle*. In the last twenty years, mechanisms and concepts borrowed from modern eurogames have made wargames more sophisticated, elegant, and approachable. A good example is the COIN series of multiplayer asymmetric games initiated by Volko Ruhnke with *Andean Abyss*, games that have seen an influx of new players, many of whom weren’t even born yet when SPI shuttered its doors, and are eager to learn about and engage with historical models.
 
 ## Bibliography
-
 - Dunnigan, James (1968). *1914* (board game). Avalon Hill Game Company.
 - Dunnigan, James (1980). *The Complete Wargames Handbook: How To Play, Design, and Find Them*. 1992 edition. William Morrow and Company.
 - Dunnigan, James & Avorn, Jerry (1969). *Up Against the Wall, Motherfucker!* (board game). Columbia Daily Spectator.

@@ -7,13 +7,11 @@ tags:
   - book/cardboard-ghosts
 ---
 # Chapter 9: Challenges and Hopes
-
 *From [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Cardboard Ghosts: Using Physical Games to Model and Critique Systems]] (Amabel Holland, CRC Press 2025). DOI: [10.1201/9781003500834-9](https://doi.org/10.1201/9781003500834-9). Page numbers from the print edition are attached to paragraphs as block ids (`^p12`), so the [[Cardboard Ghosts Index|index]] can link straight to them.*
 
 [[Chapter 8 - This Guilty Land|← Chapter 8]] · [[Cardboard Ghosts - Using Physical Games to Model and Critique, Amabel Holland, 2024|Contents]]
 
 ## Useful Doubts
-
 In the preceding chapters, in the natural course of discussing techniques and approaches to modeling, we mentioned some challenges inherent to each, as well as challenges to the use of games to model real-world systems.
 
 These considerations are both ethical and practical. A game designer working in this space has to sidestep, overcome, and think carefully about a number of pitfalls which do not confront a designer who is more concerned with adding a new twist to roundels or deckbuilding than with what real-world things those mechanisms can express, explore, and embody.
@@ -27,7 +25,6 @@ Every time I approach a new project of this type, I am absolutely riddled with t
 Simply having doubts won’t ensure you find the right answers to these questions. But it will ensure you ask them, and that once you arrive at an answer, you’ll question it, too. This process of continuous inquiry is exhausting but necessary, a vital tool for any artist, regardless of medium.
 
 ## Ethical Challenges
-
 When discussing present and historical systems of oppression, there exists a fundamental responsibility to do so thoughtfully. These systems have been sources of real and sometimes unfathomable suffering, and that harm can ripple out for generations, with the effects still felt today. It is ghoulish to discuss these things cavalierly or flippantly, especially if they haven’t touched you personally. I don’t think I need to spend a lot of time explaining this; it should fall under basic human decency. There are additional challenges, however, unique to making a game about these serious and difficult topics.
 
 First, there is a perception among the general public that games themselves are inherently frivolous and diverting baubles. For many, the very idea of doing a game about real-life tragedies is trivializing. This is a perception which is changing. Many people now acknowledge video games as capable of serious art about serious subjects, and this is also true to a degree of tabletop role-playing games.
@@ -71,7 +68,6 @@ But in order to create games with the purpose of *understanding* and thinking ab
 Like most ethical considerations in art and human expression, this is not a thing which can be completely solved. There are no rules which will ensure the “correct” result. It’s a thing to be grappled with, and this grappling should inform the decisions the designer makes to mitigate harm, and to ask themselves if the harm which remains, even if unintentional, is justified by the end result.
 
 ## Practical Challenges
-
 The very thing which makes board games a useful tool for understanding systems paradoxically limits their ability to do so. Because you need to learn a game before you can begin to manipulate it, you are given the opportunity to understand the game as an entire system; because you need to do this, board games are not as popular or as approachable as video games, film, or truly mass media art forms.
 
 Even when we model something as simply as possible, this learning process – so vital to the board game art – poses a kind of barrier. Serious games tackling difficult topics, interested in modeling real-world systems to the degree that they can be comprehended and critiqued, are going to be more complicated. There is an irreducible complexity to these subjects.
@@ -109,7 +105,6 @@ It’s not only a question of making a simple model of something complex – all
 But maybe you do.
 
 ## Political Art is a Custard Pie
-
 Working on games about political and social systems is exhausting. It’s exhausting because you’re spending your time – in my case, professional, but for others, for whom design is a sideline or hobby, their free time – mired in seemingly intractable problems, in the immense, wholly unnecessary suffering they cause, and in the stubborn, often malicious refusal of those who benefit from these structures to let go of them. ^p103
 
 Each of my games about systems takes about eighteen months of my life, and during those eighteen months, I fall into a deep and angry depression. Each game like this takes something from me. I’m happier once I’m on the other side of it, but I feel smaller than I was going in. Every time I make one of these games, I tell myself it’s going to be the last one, because I don’t know how many more of them I have in me.
@@ -135,7 +130,6 @@ As Vonnegut says elsewhere in the interview, “We have no idea what technology 
 Systems do not permit critique unless it can be coopted or made to look ridiculous. Anti-intellectualism and hostility to non-standard art are small cogs in a complicated machine which exists to prevent us from recognizing, understanding, and ultimately dismantling these systems. If I have another of these games in me, it will probably take this as its subject: the system that protects systems, that hides them, that persuades us they don’t exist or if they do, there’s nothing we can do about it anyway. The system which lies to us and fills us with despair; the system which tells us not to worry about it and why don’t you buy something to make yourself feel better; the system which shapes the way we think and how we think about it, shapes even our sense of what it is to be human, of what it is to be happy.
 
 ## The Future
-
 These challenges are not trivial, the chances of success are unlikely, and the rewards when you do pull it off are dubious. Above all, it’s quite lonely doing these sorts of games. You know in your heart games can be more than puzzly dopamine but it seems like you’re the only one who can see it. It’s like there’s a poison in your brain. You’re not alone, of course. But there are fewer of you than you’d like, and when you’re awake with your doubts at two in the morning, you *feel* like you’re the only one. It’s miserable.
 
 I don’t think this will always be the case. Despite the hostility or apathy of the broader market, there is a growing appetite for unusual, difficult, persnickety board games. For games which take chances, mechanically or thematically. For games which try to express something – be it human, personal, or political. For games which immerse us in uncomfortable positions, for games which alienate us from the experience for a purpose, for games which do both. For games which give us space to think about the world we live in and how it might be changed.
@@ -153,7 +147,6 @@ The same could be said of the world we live in. A world still ruled by cruel, in
 The future holds terror and promise in equal measure.
 
 ## Bibliography
-
 - Ackerman, Chantal (1975). *Jeanne Dielmann, 23 quai du Commerce, 1080 Bruxelles* (film). Paradise Films.
 - Black Dresses (2019). *Love and Affection For Stupid Little Bitches* (album). Blacksquares.
 - Brown, Tory (2023). *Votes for Women* (board game). Fort Circle Games.
