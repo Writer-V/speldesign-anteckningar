@@ -20,9 +20,9 @@ Raquel used to work on affective games. Physiological signals as controllers.
 	* [[Elements and Structure of Games]]
 	* Write 1 + comment 1 for each workshop
 	* Read
-		* [Game Design Snacks!](obsidian://open?vault=Study%20noted&file=DA301A%2FGame%20Design%20Snacks.pdf)
+		* [[Game Design Snacks]]
 		* Defining Game Mechanics
-		 * [A formal Approach to Game Design and Game Research](obsidian://open?vault=Study%20noted&file=DA301A%2FMDA.pdf)
+		 * [[MDA - A Formal Approach to Game Design and Game Research]]
 	* [[Systems, Loops, and an Escape Room]] 
 * Part 2: Workshops:
 	* 0.5 credit / workshop

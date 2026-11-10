@@ -68,9 +68,7 @@ Or, to be more precise, what they depend on is *texture*. Because it is not real
 
 I think this is the most important aspect of the *card-driven game*. This refers specifically to a style of wargame in which players have a hand of cards, which they play either to take standard actions (“operations”) or “for the event”, resolving the text on the card. These events comprise colorful historical figures, sudden catastrophes and windfalls, popular uprisings or swells of support – the texture of a time and place.
 
-This tool was created by Mark Herman for his game *We the People*, using cards
-
-> for army movement, political activity, and singular significant events… a hand of cards would offer a player a series of choices between using operations to move their armies or compete for the loyalty of the populace, as well as periodically allowing significant personages, via events, to weigh in for their cause.[^7]
+This tool was created by Mark Herman for his game *We the People*, using cards for army movement, political activity, and singular significant events… a hand of cards would offer a player a series of choices between using operations to move their armies or compete for the loyalty of the populace, as well as periodically allowing significant personages, via events, to weigh in for their cause.[^7]
 
 For example, there’s a card in this American Revolutionary War game for the publication of Thomas Paine’s *Common Sense*, which grows support and political control for the patriot cause. Francis Marion, known popularly as “the swamp fox”, has a card representing his guerrilla activities in the south. This kind of action is far below the scope of a military commander conducting the entirety of the war, but its presence adds verisimilitude. Its mechanical expression does not strain the model or require a dense three-ring binder for a rulebook.
 

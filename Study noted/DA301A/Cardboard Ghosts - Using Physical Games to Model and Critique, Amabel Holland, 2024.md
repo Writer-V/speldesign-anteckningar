@@ -89,7 +89,6 @@ Games can be used to model systems because they are themselves systems. Video ga
 Throughout this book, board game designer Amabel Holland draws connections to computer games, literature, theatre, television, music, film, and her own life, framing board games as an achingly human art form, albeit one still growing into its full potential. Anyone interested in that potential, or in the value of political art in today’s world, will find many provocative and enriching ideas within.
 
 **Key Features:**
-
 - Surveys the history of commercial board games as a polemical and persuasive form.
 - Explores games existing at the edges of the industry that push the boundaries of what games can do and be.
 - Grapples with the ethical and moral considerations of simulating real-world horrors.
